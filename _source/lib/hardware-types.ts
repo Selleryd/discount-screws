@@ -2,11 +2,12 @@ import type { Product } from './types';
 
 export type HardwareKind = 'socket' | 'wood' | 'pan' | 'flat' | 'carriage' | 'bolt' | 'nut' | 'washer' | 'rivet' | 'spacer' | 'pin'
   | 'stud' | 'shoulder' | 'set-screw' | 'thumb-screw' | 'wing-nut' | 'acorn-nut' | 'coupling-nut' | 'clip-nut'
+  | 'spring-clip-nut' | 'cage-nut' | 'rivet-nut' | 'tee-nut' | 'clinch-nut' | 'conduit-nut' | 'weld-nut'
   | 'retaining-ring' | 'spring-pin' | 'cotter-pin' | 'hitch-pin' | 'anchor' | 'wall-anchor' | 'toggle'
   | 'cable-tie' | 'clamp' | 'handle' | 'bottle' | 'driver-bit' | 'hex-key' | 'pliers' | 'rivet-gun';
 export interface HardwareOptions { finish?: string; quality?: 'high' | 'low'; product?: Partial<Product> }
 
-/** Style models only: these are not CAD drawings or representations of an individual SKU. */
+/** Select the actual fastener construction before any broad name match. */
 export function classifyHardware(product: Partial<Product>): HardwareKind | null {
   const name = `${product.name ?? ''} ${product.subcategory ?? ''}`.toLowerCase();
   const head = (product.head ?? product.specs?.['Head Style'] ?? '').toLowerCase();
@@ -29,10 +30,17 @@ export function classifyHardware(product: Partial<Product>): HardwareKind | null
   if (/wallboard|fluted plastic|wood screw anchor|lag screw shield/.test(name)) return 'wall-anchor';
   if (/anchor/.test(name)) return 'anchor';
   if (/spacer|standoff|jack screw/.test(name)) return 'spacer';
+  if (/u.type spring|tinnerman.*u.type/.test(name)) return 'spring-clip-nut';
+  if (/cage nut/.test(name)) return 'cage-nut';
+  if (/blind threaded insert|rivet nut/.test(name)) return 'rivet-nut';
+  if (/tee nut/.test(name)) return 'tee-nut';
+  if (/clinch.*nut/.test(name)) return 'clinch-nut';
+  if (/conduit locknut/.test(name)) return 'conduit-nut';
+  if (/tab weld nut/.test(name)) return 'weld-nut';
   if (/wing nut/.test(name)) return 'wing-nut';
   if (/acorn|cap nut/.test(name)) return 'acorn-nut';
   if (/coupling nut|threaded insert/.test(name)) return 'coupling-nut';
-  if (/cage nut|clip nut|spring nut/.test(name)) return 'clip-nut';
+  if (/clip nut|spring nut/.test(name)) return 'clip-nut';
   if (/nut|locknut/.test(name) || /nuts/.test(category)) return 'nut';
   if (/washers/.test(category)) return 'washer';
   if (/washer/.test(name) && !/screw|bolt|rivet/.test(name)) return 'washer';
@@ -52,5 +60,18 @@ export function classifyHardware(product: Partial<Product>): HardwareKind | null
   // Unknown future inventory retains its real photo until a meaningful model
   // family is added. Never turn an unrecognized product into an arbitrary screw.
   return null;
+}
+
+/** Use the supplied product photograph when a supported model would misstate the part. */
+export function hardwareModelAvailability(product: Partial<Product>): { kind: HardwareKind | null; reason?: string } {
+  const name = `${product.name ?? ''} ${product.subcategory ?? ''}`.toLowerCase();
+  if (/cage nuts?|clip nuts?/.test(name) && /with screws|w\/screws/.test(name)) {
+    return { kind: null, reason: 'The product photo shows the complete supplied hardware set.' };
+  }
+  if (/allen nuts?|12.point socket style|plow bolts?|elevator bolts?/.test(name)) {
+    return { kind: null, reason: 'Use the product photo to inspect this specialty fastener.' };
+  }
+  const kind = classifyHardware(product);
+  return kind ? { kind } : { kind: null, reason: 'Product photograph available.' };
 }
 

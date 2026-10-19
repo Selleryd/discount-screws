@@ -1,7 +1,9 @@
 import * as THREE from 'three';
 import type { HardwareKind, HardwareOptions } from './hardware-types';
+import { createDimensionHardware } from './hardware-dimension-models';
+import { createNutHardware } from './hardware-nut-models';
 export type { HardwareKind, HardwareOptions } from './hardware-types';
-export { classifyHardware } from './hardware-types';
+export { classifyHardware, hardwareModelAvailability } from './hardware-types';
 
 function metal(finish = '') {
   const plastic = /nylon|plastic|polyethylene|ptfe|acetal|delrin/i.test(finish);
@@ -131,7 +133,7 @@ function thread(coreRadius: number, height: number, from: number, to: number, pi
 export function createHardware(kind: HardwareKind, options: HardwareOptions = {}): THREE.Group {
   const group = new THREE.Group();
   group.name = `Representative ${kind}`;
-  const material = metal(options.finish);
+  const material = metal(`${options.finish ?? ''} ${options.product?.material ?? ''} ${options.product?.specs?.Material ?? ''}`);
   const darkMaterial = material.clone();
   darkMaterial.color.multiplyScalar(.48);
   darkMaterial.roughness = .38;
@@ -141,7 +143,13 @@ export function createHardware(kind: HardwareKind, options: HardwareOptions = {}
   const description = `${product?.name ?? ''} ${product?.subcategory ?? ''} ${product?.head ?? ''} ${product?.drive ?? ''}`.toLowerCase();
   const pointed = /wood|deck|drywall|self.tapp|self.pierc|self.drill|concrete|lag screw/.test(description);
   const add = (...objects: THREE.Object3D[]) => group.add(...objects);
-  if (kind === 'socket') {
+  if (kind === 'bolt' || kind === 'carriage' || kind === 'washer') {
+    const model=createDimensionHardware(kind,{product,material,darkMaterial,radial,detail});
+    Object.assign(group.userData,model.userData);add(model);
+  } else if (['nut','wing-nut','acorn-nut','coupling-nut','clip-nut','spring-clip-nut','cage-nut','rivet-nut','tee-nut','clinch-nut','conduit-nut','weld-nut'].includes(kind)) {
+    const model=createNutHardware(kind,{product,material,darkMaterial,radial,detail});
+    Object.assign(group.userData,model.userData);add(model);
+  } else if (kind === 'socket') {
     add(lathe([[0,-1.65],[.21,-1.65],[.255,-1.60],[.255,1.05],[.27,1.12],[.50,1.12],[.55,1.18],[.55,1.67],[.51,1.73],[0,1.73]], material, radial));
     add(thread(.254,.085,-1.56,1.03,.17,material,detail));
     const top = roundShape(.515, radial);
@@ -170,13 +178,6 @@ export function createHardware(kind: HardwareKind, options: HardwareOptions = {}
     top.holes.push(driveRecess(.39,description));
     add(extruded(top,.085,material,1.58,.012));
     add(mesh(new THREE.CylinderGeometry(.4,.4,.006,radial),darkMaterial,1.497));
-  } else if (kind === 'carriage') {
-    add(lathe([[0,-1.78],[.23,-1.78],[.27,-1.70],[.27,1.04],[0,1.04]],material,radial));
-    add(thread(.268,.085,-1.69,.42,.185,material,detail));
-    const neck = mesh(new THREE.CylinderGeometry(.42,.42,.38,4),material,1.11);
-    neck.rotation.y = Math.PI/4;
-    add(neck);
-    add(lathe([[0,1.28],[.64,1.28],[.68,1.33],[.65,1.42],[.57,1.53],[.43,1.63],[.24,1.70],[0,1.73]],material,radial));
   } else if (kind === 'wood') {
     add(lathe([[0,-1.8],[.04,-1.72],[.18,-1.15],[.235,-.82],[.235,1.05],[.56,1.43],[.58,1.49],[0,1.49]],material,radial));
     add(thread(.232,.13,-1.72,.87,.29,material,detail,true));
@@ -185,39 +186,6 @@ export function createHardware(kind: HardwareKind, options: HardwareOptions = {}
     add(extruded(top,.085,material,1.58,.012));
     const floor = roundShape(.41,radial);
     add(extruded(floor,.004,darkMaterial,1.497,0));
-  } else if (kind === 'bolt') {
-    add(lathe([[0,-1.72],[pointed ? .015 : .23,-1.72],[pointed ? .12 : .27,-1.35],[.27,-.82],[.27,1.14],[.34,1.18],[0,1.18]],material,radial));
-    add(thread(.268,pointed ? .12 : .085,-1.63,.97,pointed ? .28 : .185,material,detail,pointed));
-    add(lathe([[0,1.12],[.48,1.12],[.59,1.20],[.59,1.64],[.50,1.74],[0,1.74]],material,/square head/.test(description) ? 4 : 6));
-    add(lathe([[0,1.07],[.46,1.07],[.50,1.09],[.50,1.15],[.46,1.18],[0,1.18]],material,radial));
-    if (/flange|washer head/.test(description)) add(ring(.76,.28,.1,1.13,material));
-  } else if (kind === 'nut') {
-    const sides = /square|weld/.test(description) ? 4 : /conduit|tee nut|clinching/.test(description) ? radial : 6;
-    const shape = roundShape(.96,sides);
-    shape.holes.push(hole(.47,radial));
-    add(extruded(shape,.65,material,.325,.06));
-    add(thread(.473,-.047,-.24,.26,.125,material,detail));
-    if (/flange|keps|tee nut/.test(description)) add(ring(1.14,.47,.12,-.25,material));
-    if (/nylon insert/.test(description)) add(ring(.73,.46,.13,.39,darkMaterial));
-    if (/castle|slotted hex/.test(description)) for (let i=0;i<6;i++) {
-      const angle = i*Math.PI/3; const tooth = box(.35,.32,.21,material,Math.cos(angle)*.73,.49,Math.sin(angle)*.73);
-      tooth.rotation.y = -angle + Math.PI/2; add(tooth);
-    }
-  } else if (kind === 'washer') {
-    if (/split lock/.test(description)) {
-      const points: [number,number,number][]=[];
-      for(let i=0;i<=64;i++) { const a=.13+i/64*(Math.PI*2-.28); points.push([Math.cos(a)*.76,-.1+i/64*.2,Math.sin(a)*.76]); }
-      add(wire(points,.16,material));
-    } else if (/countersunk|finishing/.test(description)) add(lathe([[.42,-.12],[1,-.12],[1,.02],[.61,.27],[.42,.27],[.42,-.12]],material,radial));
-    else {
-      add(ring(1,.43,.105,.0525,material));
-      if (/tooth/.test(description)) for(let i=0;i<12;i++) {
-        const a=i*Math.PI/6, inner=/internal/.test(description),r=inner?.43:1;
-        const tooth=box(.18,.12,.23,material,Math.cos(a)*r,0,Math.sin(a)*r);tooth.rotation.y=-a;tooth.rotation.z=.2;add(tooth);
-      }
-      if (/shoulder/.test(description)) add(ring(.64,.43,.45,.5,material));
-      if (/bonded|epdm/.test(description)) add(ring(.99,.43,.13,-.055,darkMaterial));
-    }
   } else if (kind === 'rivet') {
     // Open-end blind rivet with its long, break-away mandrel.
     add(lathe([[0,-1.85],[.068,-1.85],[.083,-1.81],[.083,1.05],[0,1.05]],material,radial));
@@ -250,22 +218,6 @@ export function createHardware(kind: HardwareKind, options: HardwareOptions = {}
       add(mesh(new THREE.CylinderGeometry(.65,.65,.47,radial),material,1.02));
       for(let i=0;i<32;i++) {const a=i*Math.PI/16;const rib=box(.025,.45,.03,darkMaterial,Math.cos(a)*.65,1.02,Math.sin(a)*.65);rib.rotation.y=-a;add(rib);}
     }
-  } else if (kind === 'wing-nut' || kind === 'acorn-nut' || kind === 'coupling-nut') {
-    const length=kind==='coupling-nut'?2.3:.62;
-    add(ring(.77,.38,length,length/2,material,kind==='wing-nut'?radial:6));
-    add(thread(.383,-.045,-length/2+.07,length/2-.07,.14,material,detail));
-    if(kind==='acorn-nut') add(lathe([[0,1.13],[.23,1.1],[.43,.98],[.57,.77],[.61,.34],[0,.34]],material,radial));
-    if(kind==='wing-nut') for(const sign of [-1,1]) {
-      const shape=new THREE.Shape();shape.moveTo(.48*sign,-.15);shape.lineTo(1.65*sign,.45);shape.quadraticCurveTo(1.93*sign,1.2,1.35*sign,1.13);shape.lineTo(.53*sign,.41);shape.closePath();
-      const wing=new THREE.Mesh(new THREE.ExtrudeGeometry(shape,{depth:.18,bevelEnabled:true,bevelSize:.05,bevelThickness:.05,bevelSegments:2}),material);wing.position.z=-.09;add(wing);
-    }
-  } else if (kind === 'clip-nut') {
-    add(ring(.68,.31,.48,.24,material,/cage/.test(description)?4:6));
-    add(box(1.52,.12,1.52,material,0,-.35));
-    for(const sign of [-1,1]) {add(box(.12,.9,1.52,material,sign*.8,0));add(box(.4,.12,1.52,material,sign*.65,.48));}
-    // The central opening runs through the folded cage as well.
-    const bottom=group.children[1];group.remove(bottom);(bottom as THREE.Mesh).geometry.dispose();
-    const plate=roundShape(1.07,4);plate.holes.push(hole(.31));add(extruded(plate,.12,material,-.29,0));
   } else if (kind === 'retaining-ring') {
     const shape=new THREE.Shape();const gap=.36;
     for(let i=0;i<=80;i++){const a=gap+i/80*(Math.PI*2-gap*2);if(!i)shape.moveTo(Math.cos(a),Math.sin(a));else shape.lineTo(Math.cos(a),Math.sin(a));}

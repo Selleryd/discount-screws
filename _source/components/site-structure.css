@@ -22,7 +22,7 @@
 .store-main>.project-navigator{padding-top:90px;padding-bottom:90px}
 .store-main>.featured{border-top:1px solid #dce1d6;padding-top:80px;padding-bottom:90px}
 .store-main>.process{padding-top:80px;padding-bottom:90px}
-.logo .logo-registered{font-size:.43em;line-height:1;font-weight:500;letter-spacing:0;align-self:flex-start;margin:0.32em 0 0 .25em}
+.logo .logo-registered{font-size:.4em;line-height:1;font-weight:400;letter-spacing:0;align-self:flex-start;margin:.3em 0 0 .03em}
 .personality-line{background:#e9ede2;color:#34432b;border-color:#d3dcc8;font-size:9px;font-weight:500;letter-spacing:.13em}
 .personality-line i{color:#566d3b}
 @media(max-width:1100px){.header nav{display:none}.header .mobile-only{display:inline-flex!important}.header-actions{gap:10px}.header .icon-btn{min-width:44px;min-height:44px}}
