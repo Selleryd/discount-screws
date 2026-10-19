@@ -1,0 +1,74 @@
+/*
+ * Source photos keep their original pixels. White JPEG mattes disappear through
+ * one multiply operation at the photo's compositing boundary, not on the inner
+ * img. A transformed / positioned ancestor otherwise traps that inner blend
+ * against transparent black and leaves the white rectangle visible.
+ */
+
+/* The scroll viewport is the default photo compositing boundary. */
+.pan-zoom-photo {
+  mix-blend-mode: multiply;
+  background: transparent;
+  isolation: auto;
+}
+.pan-zoom-photo .pan-zoom-photo-content,
+.pan-zoom-photo .pan-zoom-photo-content > img {
+  mix-blend-mode: normal !important;
+  isolation: auto;
+  background: transparent !important;
+}
+
+/*
+ * Type thumbnails rotate on hover. Blend that complete transformed span;
+ * the directory's decorative z-index must not isolate its transparent grid
+ * from the gradient that is actually behind the photos.
+ */
+.type-detail .type-leaves {
+  z-index: auto !important;
+  isolation: auto !important;
+}
+.type-detail .type-leaf-main > span {
+  mix-blend-mode: multiply !important;
+  isolation: auto !important;
+  background: transparent !important;
+}
+.type-detail .type-leaf-main > span > .pan-zoom-photo {
+  mix-blend-mode: normal !important;
+}
+
+/*
+ * Only the photo version of the cinematic stage needs this. Its outer visual
+ * is the blend owner so the photo's z-index cannot create a white island.
+ * The section retains its actual neutral background; the 3D dark stage and
+ * WebGL colors are untouched.
+ */
+.pc-story.pc-story-light .pc-story-visual {
+  isolation: auto !important;
+  z-index: auto !important;
+  mix-blend-mode: multiply !important;
+  background: transparent !important;
+}
+.pc-story.pc-story-light .pc-story-photo {
+  mix-blend-mode: normal !important;
+  isolation: auto !important;
+  background: transparent !important;
+}
+
+/* Keep light image mounts open to their actual page / drawer / modal surface. */
+.pg-gallery .pg-image-container,
+.home-product-image,
+.catalog-card-image,
+.pn-part-image,
+.order-product-image,
+.px-dimension-product,
+.px-related-card > div,
+.compare-selected > div,
+.compare-modal thead th {
+  isolation: auto !important;
+}
+
+/* The short entrance animation creates a temporary stacking context. Give it
+ * the exact inherited, flat project-section backdrop while it is animating. */
+.project-navigator .pn-body {
+  background: inherit;
+}

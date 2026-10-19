@@ -1,0 +1,4160 @@
+{
+  "source": "https://www.fastenersuperstore.com/products",
+  "fetchedAt": "2026-10-15",
+  "groups": [
+    {
+      "id": "screws",
+      "name": "Screws",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/screws",
+      "description": "From timber and drywall to metal assemblies: find the thread, head, and drive for the job.",
+      "types": [
+        {
+          "id": "concrete-screws-df10c9",
+          "name": "Concrete Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/concrete-screws",
+          "description": "Thread directly into a prepared masonry hole for attaching fixtures to concrete, block, or brick.",
+          "productIds": [
+            "282981",
+            "282996",
+            "283298",
+            "283308",
+            "283427",
+            "283430",
+            "283616",
+            "283700",
+            "283807",
+            "285089",
+            "285113",
+            "928124",
+            "948002",
+            "948126"
+          ],
+          "skuCount": 14,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/02193e98d760.jpg"
+        },
+        {
+          "id": "deck-screws-51dc13",
+          "name": "Deck Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/deck-screws",
+          "description": "Coarse threads and sharp points for fastening decking and pressure-treated lumber.",
+          "productIds": [
+            "418252",
+            "418361",
+            "455668",
+            "557134",
+            "559968",
+            "580366",
+            "582840",
+            "587628",
+            "587657",
+            "587738"
+          ],
+          "skuCount": 10,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/869d10f8e81c.jpg"
+        },
+        {
+          "id": "drywall-screws-89a72e",
+          "name": "Drywall Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/drywall-screws",
+          "description": "Fasten wallboard to wood or metal studs with the appropriate thread and point style.",
+          "productIds": [
+            "119603",
+            "131711",
+            "402435",
+            "431799",
+            "441229",
+            "477212",
+            "537465",
+            "582559",
+            "582655",
+            "610399"
+          ],
+          "skuCount": 10,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/c06ca03f1d9e.jpg"
+        },
+        {
+          "id": "lag-screws-102004",
+          "name": "Lag Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/lag-screws",
+          "description": "Hex-headed, coarse-threaded fasteners for substantial wood connections.",
+          "productIds": [
+            "184889",
+            "186252",
+            "205232",
+            "213491",
+            "303349",
+            "315564",
+            "427337",
+            "445968",
+            "476110",
+            "596482"
+          ],
+          "skuCount": 10,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/7d5c2d5467e3.jpg"
+        },
+        {
+          "id": "machine-screws-576392",
+          "name": "Machine Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/machine-screws",
+          "description": "Join parts through matching tapped holes or nuts with uniform machine threads.",
+          "productIds": [
+            "101426",
+            "107006",
+            "108874",
+            "108919",
+            "123279",
+            "146409",
+            "148528",
+            "177821",
+            "188841",
+            "240422",
+            "242279",
+            "243728",
+            "246235",
+            "247429",
+            "252555",
+            "259716",
+            "261195",
+            "268615",
+            "293628",
+            "310587",
+            "414204",
+            "416168",
+            "435330",
+            "443219",
+            "467487",
+            "467514",
+            "469392",
+            "505200",
+            "508458",
+            "531912",
+            "532013",
+            "561205"
+          ],
+          "skuCount": 32,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/b80e08090bc5.jpg"
+        },
+        {
+          "id": "metric-screws-b66056",
+          "name": "Metric Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/metric-screws",
+          "description": "Machine, SEMS, and thread-forming screws sized with metric threads.",
+          "productIds": [
+            "259716",
+            "435330",
+            "505200",
+            "508458",
+            "531912",
+            "532013",
+            "561205"
+          ],
+          "skuCount": 7,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/b80e08090bc5.jpg"
+        },
+        {
+          "id": "military-spec-screws-bbfe98",
+          "name": "Mil-Spec Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/military-spec-screws",
+          "description": "Machine and tapping screws identified by military-standard part numbers.",
+          "productIds": [
+            "514825",
+            "524666"
+          ],
+          "skuCount": 2,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/ms24693s.jpg"
+        },
+        {
+          "id": "self-drilling-screws-e57417",
+          "name": "Self Drilling Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/self-drilling-screws",
+          "description": "A drill-shaped point creates the hole as the screw is installed in suitable material.",
+          "productIds": [
+            "136615",
+            "320997",
+            "322740",
+            "394813",
+            "394828",
+            "402606",
+            "402919",
+            "556109",
+            "556120",
+            "556209",
+            "592195"
+          ],
+          "skuCount": 11,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/1a1f9a354e0b.jpg"
+        },
+        {
+          "id": "security-screws-9ff395",
+          "name": "Security Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/security-screws",
+          "description": "Special drive recesses help limit access with ordinary screwdrivers.",
+          "productIds": [
+            "614942",
+            "614974",
+            "615498",
+            "615628",
+            "615657",
+            "616081",
+            "616111",
+            "634726",
+            "639823",
+            "640445",
+            "641365",
+            "642640"
+          ],
+          "skuCount": 12,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/53c64a01e424.jpg"
+        },
+        {
+          "id": "self-piercing-screws-64aa93",
+          "name": "Self Piercing Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/self-piercing-screws",
+          "description": "Extra-sharp points for piercing thin metal in roofing and related applications.",
+          "productIds": [
+            "630121"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/screws-self-piercing-modified-truss-square-silver.jpg"
+        },
+        {
+          "id": "self-tapping-screws-2e94d4",
+          "name": "Self Tapping Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/self-tapping-screws",
+          "description": "Form mating threads in a prepared hole; compare Type A, AB, B, and U styles.",
+          "productIds": [
+            "113403",
+            "113456",
+            "136237",
+            "138972",
+            "139081",
+            "232993",
+            "233251",
+            "249236",
+            "409942",
+            "410010",
+            "493411",
+            "494217"
+          ],
+          "skuCount": 12,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/dadb5ce3fa88.jpg"
+        },
+        {
+          "id": "sems-screws-6754ad",
+          "name": "SEMS Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/sems-screws",
+          "description": "A screw and captive washer supplied together to simplify assembly.",
+          "productIds": [
+            "107738"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/semsextphpn.jpg"
+        },
+        {
+          "id": "serrated-hex-flange-screws-32f22a",
+          "name": "Serrated Hex Flange Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/serrated-hex-flange-screws",
+          "description": "A flanged bearing surface with underside serrations for added resistance to movement.",
+          "productIds": [
+            "149503"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/serratedflangescrewsind.jpg"
+        },
+        {
+          "id": "thread-cutting-screws-df7409",
+          "name": "Thread Cutting Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/thread-cutting-screws",
+          "description": "Cut a mating thread in an unthreaded hole as the screw advances.",
+          "productIds": [
+            "154082"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/typefphilpan.jpg"
+        },
+        {
+          "id": "thread-forming-screws-4f7927",
+          "name": "Thread Forming Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/thread-forming-screws",
+          "description": "Displace material to create a mating thread without cutting chips.",
+          "productIds": [
+            "223214"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/hilophpn.jpg"
+        },
+        {
+          "id": "thumb-screws-ec6fcf",
+          "name": "Thumb Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/thumb-screws",
+          "description": "Hand-adjustable heads for components that need frequent access or adjustment.",
+          "productIds": [
+            "449745",
+            "601725"
+          ],
+          "skuCount": 2,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/thumsscrewsround.jpg"
+        },
+        {
+          "id": "weld-screws-faaf91",
+          "name": "Weld Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/weld-screws",
+          "description": "Designed to become a permanent threaded attachment when welded to an assembly.",
+          "productIds": [
+            "159908"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/welds2.jpg"
+        },
+        {
+          "id": "wing-screws-f66ce8",
+          "name": "Wing Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/wing-screws",
+          "description": "Wing-shaped heads allow tightening and removal by hand.",
+          "productIds": [
+            "163671"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/wingscrews.jpg"
+        },
+        {
+          "id": "wood-screws-b91147",
+          "name": "Wood Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/wood-screws",
+          "description": "Fasten wood components with thread, drive, and head options for the application.",
+          "productIds": [
+            "523416",
+            "529947",
+            "561979",
+            "620327",
+            "620393",
+            "620492",
+            "621495",
+            "621516",
+            "621555",
+            "621666",
+            "623863"
+          ],
+          "skuCount": 11,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/79358f13a262.jpg"
+        },
+        {
+          "id": "woodworking-screws-570118",
+          "name": "Woodworking Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/woodworking-screws?pid=6445",
+          "description": "Deep threads for cabinet work and other wood assemblies.",
+          "productIds": [
+            "523416",
+            "529947",
+            "561979",
+            "620327",
+            "620393",
+            "620492",
+            "621495",
+            "621516",
+            "621555",
+            "621666",
+            "623863"
+          ],
+          "skuCount": 11,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/79358f13a262.jpg"
+        }
+      ],
+      "productIds": [
+        "101426",
+        "107006",
+        "107738",
+        "108874",
+        "108919",
+        "113403",
+        "113456",
+        "119603",
+        "123279",
+        "131711",
+        "136237",
+        "136615",
+        "138972",
+        "139081",
+        "146409",
+        "148528",
+        "149503",
+        "154082",
+        "159908",
+        "163671",
+        "177821",
+        "184889",
+        "186252",
+        "188841",
+        "205232",
+        "213491",
+        "223214",
+        "232993",
+        "233251",
+        "240422",
+        "242279",
+        "243728",
+        "246235",
+        "247429",
+        "249236",
+        "252555",
+        "259716",
+        "261195",
+        "268615",
+        "282981",
+        "282996",
+        "283298",
+        "283308",
+        "283427",
+        "283430",
+        "283616",
+        "283700",
+        "283807",
+        "285089",
+        "285113",
+        "293628",
+        "303349",
+        "310587",
+        "315564",
+        "320997",
+        "322740",
+        "394813",
+        "394828",
+        "402435",
+        "402606",
+        "402919",
+        "409942",
+        "410010",
+        "414204",
+        "416168",
+        "418252",
+        "418361",
+        "427337",
+        "431799",
+        "435330",
+        "441229",
+        "443219",
+        "445968",
+        "449745",
+        "455668",
+        "467487",
+        "467514",
+        "469392",
+        "476110",
+        "477212",
+        "493411",
+        "494217",
+        "505200",
+        "508458",
+        "514825",
+        "523416",
+        "524666",
+        "529947",
+        "531912",
+        "532013",
+        "537465",
+        "556109",
+        "556120",
+        "556209",
+        "557134",
+        "559968",
+        "561205",
+        "561979",
+        "580366",
+        "582559",
+        "582655",
+        "582840",
+        "587628",
+        "587657",
+        "587738",
+        "592195",
+        "596482",
+        "601725",
+        "610399",
+        "614942",
+        "614974",
+        "615498",
+        "615628",
+        "615657",
+        "616081",
+        "616111",
+        "620327",
+        "620393",
+        "620492",
+        "621495",
+        "621516",
+        "621555",
+        "621666",
+        "623863",
+        "630121",
+        "634726",
+        "639823",
+        "640445",
+        "641365",
+        "642640",
+        "928124",
+        "948002",
+        "948126"
+      ],
+      "skuCount": 133,
+      "image": "/discount-screws/catalog-images/b80e08090bc5.jpg"
+    },
+    {
+      "id": "bolts",
+      "name": "Bolts",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/bolts",
+      "description": "Machine fastening, wood connections, and structural assemblies in standard and metric dimensions.",
+      "types": [
+        {
+          "id": "carriage-bolts-48c4f4",
+          "name": "Carriage Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/carriage-bolts",
+          "description": "Rounded heads and anti-rotation necks for wood and general fastening assemblies.",
+          "productIds": [
+            "142919",
+            "162841",
+            "181646",
+            "185657",
+            "318192",
+            "453297",
+            "476920",
+            "477732",
+            "498205",
+            "498285",
+            "567373",
+            "574466",
+            "596811",
+            "630771"
+          ],
+          "skuCount": 14,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/897f13673589.jpg"
+        },
+        {
+          "id": "dowel-screws-b73cf0",
+          "name": "Dowel Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/dowel-screws?pid=6002",
+          "description": "Headless, wood-threaded ends join two pieces of wood without an exposed head.",
+          "productIds": [
+            "230018"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/dowelscrews.jpg"
+        },
+        {
+          "id": "elevator-bolts-3eabfe",
+          "name": "Elevator Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/elevator-bolts?pid=6003",
+          "description": "A broad, low-profile head provides a large bearing area in conveyor assemblies.",
+          "productIds": [
+            "187211"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/elevatorbolts.jpg"
+        },
+        {
+          "id": "threaded-rod-studs-c941b3",
+          "name": "Fully Threaded Studs",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/threaded-rod-studs",
+          "description": "Headless lengths of continuous thread for joining and mounting components.",
+          "productIds": [
+            "600479"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/studsfullythreaded.jpg"
+        },
+        {
+          "id": "hanger-bolts-4a9cbf",
+          "name": "Hanger Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/hanger-bolts",
+          "description": "Wood threads at one end and machine threads at the other connect wood to hardware.",
+          "productIds": [
+            "248428"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/hangbolts.jpg"
+        },
+        {
+          "id": "heavy-hex-bolts-c84fc4",
+          "name": "Heavy Hex Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/heavy-hex-bolts?pid=6361",
+          "description": "A wider hex head provides more wrench contact for industrial fastening.",
+          "productIds": [
+            "478607"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/heavy-hex-bolts.jpg"
+        },
+        {
+          "id": "hex-cap-screws-776b20",
+          "name": "Hex Cap Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/hex-cap-screws",
+          "description": "General-purpose hex-headed bolts with material, strength-grade, and thread options.",
+          "productIds": [
+            "162180",
+            "162856",
+            "168429",
+            "200044",
+            "274931",
+            "275505",
+            "276593",
+            "442269",
+            "477476",
+            "511985"
+          ],
+          "skuCount": 10,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/597edb74abf8.jpg"
+        },
+        {
+          "id": "hex-flange-frame-bolts-0759d8",
+          "name": "Hex Flange & Frame Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/hex-flange-frame-bolts",
+          "description": "An integrated flange increases the bearing surface under the bolt head.",
+          "productIds": [
+            "425711"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/metric-bolts-hex-flange-grade-8.8.jpg"
+        },
+        {
+          "id": "hex-machine-bolts-aef0ea",
+          "name": "Hex Machine Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/hex-machine-bolts?pid=6007",
+          "description": "Partially threaded, galvanized hex bolts for matching nut-and-bolt assemblies.",
+          "productIds": [
+            "199160"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/hexmachbolts.jpg"
+        },
+        {
+          "id": "hex-tap-bolts-91483a",
+          "name": "Hex Tap Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/hex-tap-bolts",
+          "description": "Fully threaded hex bolts for applications needing thread along the entire shank.",
+          "productIds": [
+            "421763"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/hextapbolts.jpg"
+        },
+        {
+          "id": "lag-screws-102004",
+          "name": "Lag Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/lag-screws",
+          "description": "Hex-headed, coarse-threaded fasteners for substantial wood connections.",
+          "productIds": [
+            "184889",
+            "186252",
+            "205232",
+            "213491",
+            "303349",
+            "315564",
+            "427337",
+            "445968",
+            "476110",
+            "596482"
+          ],
+          "skuCount": 10,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/7d5c2d5467e3.jpg"
+        },
+        {
+          "id": "metric-bolts-296e48",
+          "name": "Metric Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/metric-bolts",
+          "description": "Hex, flange, and carriage bolt options with metric thread dimensions.",
+          "productIds": [
+            "274931",
+            "275505",
+            "276593",
+            "425711"
+          ],
+          "skuCount": 4,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/5c3843a42a30.jpg"
+        },
+        {
+          "id": "bolts-military-spec-ccd22d",
+          "name": "Mil-Spec Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/bolts-military-spec",
+          "description": "Bolts organized by their military-standard part identification.",
+          "productIds": [
+            "484247"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/ms90725.jpg"
+        },
+        {
+          "id": "plow-bolts-e0d1c7",
+          "name": "Plow Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/plow-bolts",
+          "description": "Countersunk heads and anti-rotation necks for flush-surface fastening.",
+          "productIds": [
+            "198923"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/plowbolts.jpg"
+        },
+        {
+          "id": "slotted-flat-head-cap-screws-a387d3",
+          "name": "Slotted Flat Head Cap Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/slotted-flat-head-cap-screws?pid=6012",
+          "description": "A slotted drive and countersunk head for a flush finished surface.",
+          "productIds": [
+            "206482"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/slottedflatcapscrews.jpg"
+        },
+        {
+          "id": "square-head-machine-bolts-2751a3",
+          "name": "Square Head Machine Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/square-head-machine-bolts",
+          "description": "Four-sided heads provide wrench engagement in machinery and assemblies.",
+          "productIds": [
+            "390253"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/squareheadbolts.jpg"
+        },
+        {
+          "id": "step-bolts-979a02",
+          "name": "Step Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/step-bolts?pid=6014",
+          "description": "A broad, rounded head and square neck provide a large bearing surface.",
+          "productIds": [
+            "188180"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/stepbolts.jpg"
+        },
+        {
+          "id": "structural-bolts-8b78c4",
+          "name": "Structural Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/structural-bolts?pid=6015",
+          "description": "Structural-grade bolts intended for compatible nuts and washers.",
+          "productIds": [
+            "360104"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/d8208f95c170.png"
+        }
+      ],
+      "productIds": [
+        "142919",
+        "162180",
+        "162841",
+        "162856",
+        "168429",
+        "181646",
+        "184889",
+        "185657",
+        "186252",
+        "187211",
+        "188180",
+        "198923",
+        "199160",
+        "200044",
+        "205232",
+        "206482",
+        "213491",
+        "230018",
+        "248428",
+        "274931",
+        "275505",
+        "276593",
+        "303349",
+        "315564",
+        "318192",
+        "360104",
+        "390253",
+        "421763",
+        "425711",
+        "427337",
+        "442269",
+        "445968",
+        "453297",
+        "476110",
+        "476920",
+        "477476",
+        "477732",
+        "478607",
+        "484247",
+        "498205",
+        "498285",
+        "511985",
+        "567373",
+        "574466",
+        "596482",
+        "596811",
+        "600479",
+        "630771"
+      ],
+      "skuCount": 48,
+      "image": "/discount-screws/catalog-images/897f13673589.jpg"
+    },
+    {
+      "id": "nuts",
+      "name": "Nuts",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/nuts",
+      "description": "Threaded, locking, flanged, and specialty nuts for a precise matching connection.",
+      "types": [
+        {
+          "id": "acorn-nuts-b8a452",
+          "name": "Acorn Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/acorn-nuts",
+          "description": "Domed caps cover protruding threads for a finished, less-exposed fastening point.",
+          "productIds": [
+            "153179"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/a1acb2e7a16f.jpg"
+        },
+        {
+          "id": "cage-nuts-25d0bd",
+          "name": "Cage Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/cage-nuts",
+          "description": "A square nut held in a spring-steel cage for panel and rack mounting.",
+          "productIds": [
+            "910067"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/cagenuts.jpg"
+        },
+        {
+          "id": "castle-nuts-19a98a",
+          "name": "Castle Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/castle-nuts?pid=6018",
+          "description": "Slots in the raised collar accept a cotter pin to retain the nut.",
+          "productIds": [
+            "317021"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/castlenuts.jpg"
+        },
+        {
+          "id": "clinch-nuts-d24a78",
+          "name": "Clinch Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/clinch-nuts",
+          "description": "Press-in threaded nuts for creating attachment points in thin sheet metal.",
+          "productIds": [
+            "145811"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/clinchnuts.jpg"
+        },
+        {
+          "id": "conduit-lock-nuts-c0f388",
+          "name": "Conduit Locknuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/conduit-lock-nuts?pid=6020",
+          "description": "Low-profile, lobed nuts for securing electrical conduit fittings.",
+          "productIds": [
+            "249469"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/conduitlocknuts.jpg"
+        },
+        {
+          "id": "coupling-nuts-796c9a",
+          "name": "Coupling Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/coupling-nuts",
+          "description": "Extended internal threads connect threaded rods, studs, or bolts.",
+          "productIds": [
+            "547647"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/couplingnuts.jpg"
+        },
+        {
+          "id": "finished-hex-nuts-62c116",
+          "name": "Finished Hex Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/finished-hex-nuts",
+          "description": "Standard hex nuts for everyday threaded fastening and assembly.",
+          "productIds": [
+            "141787",
+            "174916",
+            "194718",
+            "201843",
+            "260541",
+            "397955",
+            "548582",
+            "580487",
+            "607266"
+          ],
+          "skuCount": 9,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/f43b3e1399b5.jpg"
+        },
+        {
+          "id": "flex-lock-nuts-422363",
+          "name": "Flex Locknuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/flex-lock-nuts",
+          "description": "A segmented collar creates prevailing torque as the nut tightens.",
+          "productIds": [
+            "457621"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/flexlocknuts.png"
+        },
+        {
+          "id": "heavy-hex-nuts-1d1940",
+          "name": "Heavy Hex Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/heavy-hex-nuts",
+          "description": "A wider and thicker hex profile than a standard finished nut.",
+          "productIds": [
+            "170233"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/275c62ab99cf.jpg"
+        },
+        {
+          "id": "hex-flange-lock-nuts-8f0bbb",
+          "name": "Hex Flange Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/hex-flange-lock-nuts",
+          "description": "An integrated flange spreads bearing force; serrated versions add locking action.",
+          "productIds": [
+            "429023"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/metricflangenutszincyellow.jpg"
+        },
+        {
+          "id": "hex-jam-nuts-9d7a49",
+          "name": "Hex Jam Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/hex-jam-nuts",
+          "description": "A thinner nut profile for limited space and jam-nut arrangements.",
+          "productIds": [
+            "621144"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/jamnut.jpg"
+        },
+        {
+          "id": "keps-nuts-7ebd04",
+          "name": "Keps Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/keps-nuts",
+          "description": "A captive, free-spinning washer combines the nut and washer in one assembly.",
+          "productIds": [
+            "132112"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/keps.jpg"
+        },
+        {
+          "id": "left-hand-hex-nuts-738e1a",
+          "name": "Left Hand Hex Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/left-hand-hex-nuts?pid=6028",
+          "description": "Reverse-threaded hex nuts for matching left-hand screws and studs.",
+          "productIds": [
+            "420316"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/f43b3e1399b5.jpg"
+        },
+        {
+          "id": "machine-screw-nuts-cbd879",
+          "name": "Machine Screw Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/machine-screw-nuts",
+          "description": "Compact hex and square nuts sized to pair with machine screws.",
+          "productIds": [
+            "132080"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/88bade7ed82c.jpg"
+        },
+        {
+          "id": "metric-nuts-f77fa8",
+          "name": "Metric Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/metric-nuts",
+          "description": "Threaded nut styles sized for matching metric fasteners.",
+          "productIds": [
+            "260541",
+            "429023",
+            "540554",
+            "548582",
+            "580487",
+            "910292",
+            "911902",
+            "911905"
+          ],
+          "skuCount": 8,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/c8b5dd45e1da.jpg"
+        },
+        {
+          "id": "military-spec-nuts-a56655",
+          "name": "Mil-Spec Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/military-spec-nuts",
+          "description": "Nuts identified by their specified military-standard part numbers.",
+          "productIds": [
+            "495020"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/nuts-finished-hex-zinc-yellow.jpg"
+        },
+        {
+          "id": "nylon-hex-nuts-06eb6a",
+          "name": "Nylon Hex Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/nylon-hex-nuts?pid=6031",
+          "description": "Nonmetallic hex nuts made from nylon for suitable insulating and lightweight assemblies.",
+          "productIds": [
+            "336457"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/nylonhexnuts.jpg"
+        },
+        {
+          "id": "nylon-insert-lock-nuts-b83c0b",
+          "name": "Nylon Insert Locknuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/nylon-insert-lock-nuts",
+          "description": "A nylon collar adds friction against mating threads to resist loosening.",
+          "productIds": [
+            "120021"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/thinstylenyloninsertlocknuts.jpg"
+        },
+        {
+          "id": "panel-nuts-16cf21",
+          "name": "Panel Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/panel-nuts?pid=6033",
+          "description": "Low-profile nuts for mounting switches, controls, and electrical fixtures.",
+          "productIds": [
+            "601761"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/panelnuts.jpg"
+        },
+        {
+          "id": "rack-mounting-nuts-ccea5c",
+          "name": "Rack Mounting Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/rack-mounting-nuts",
+          "description": "Cage and clip-style nuts for fastening equipment into rack rails.",
+          "productIds": [
+            "900001",
+            "910063",
+            "910292",
+            "911902",
+            "911905"
+          ],
+          "skuCount": 5,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/clipnuts.jpg"
+        },
+        {
+          "id": "rivet-nuts-589479",
+          "name": "Rivet Nuts / Threaded Inserts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/rivet-nuts",
+          "description": "Create a reusable threaded attachment in sheet material.",
+          "productIds": [
+            "540554"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/smallflangethreadedinserts.jpg"
+        },
+        {
+          "id": "slotted-hex-nuts-172ae9",
+          "name": "Slotted Hex Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/slotted-hex-nuts",
+          "description": "Slots across the nut allow a retaining pin to pass through.",
+          "productIds": [
+            "141824"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/slottedhexnuts.jpg"
+        },
+        {
+          "id": "square-nuts-9bbd96",
+          "name": "Square Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/square-nuts",
+          "description": "Four-sided nuts for matching threaded fasteners and captive-nut arrangements.",
+          "productIds": [
+            "194826"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/squarenut.jpg"
+        },
+        {
+          "id": "stover-lock-nuts-cfa8b7",
+          "name": "Stover Locknuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/stover-lock-nuts",
+          "description": "An all-metal nut with distorted upper threads that create prevailing torque.",
+          "productIds": [
+            "208750"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/flanged-stover-locknut-grade-G.jpg"
+        },
+        {
+          "id": "structural-nuts-e1f2b8",
+          "name": "Structural Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/structural-nuts",
+          "description": "Heavy-duty nut grades intended to pair with structural bolts and washers.",
+          "productIds": [
+            "282295"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/structural-nuts-a194.jpg"
+        },
+        {
+          "id": "tee-nuts-85243f",
+          "name": "Tee Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/tee-nuts",
+          "description": "A threaded barrel and anchoring base create a fastening point in wood.",
+          "productIds": [
+            "519507"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/65cdf9758cef.jpg"
+        },
+        {
+          "id": "tinnerman-style-nuts-02e6ad",
+          "name": "Tinnerman Style Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/tinnerman-style-nuts",
+          "description": "Spring-style nut options for sheet-metal fastening.",
+          "productIds": [
+            "215183"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/uclips.jpg"
+        },
+        {
+          "id": "two-way-reversible-lock-nuts-ecd24e",
+          "name": "Two Way Reversible Locknuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/two-way-reversible-lock-nuts",
+          "description": "Indentations in the nut provide a locking effect from either installation direction.",
+          "productIds": [
+            "132226"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/twowayln.jpg"
+        },
+        {
+          "id": "weld-nuts-8ca992",
+          "name": "Weld Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/weld-nuts",
+          "description": "Threaded nuts designed for permanent attachment to a metal assembly by welding.",
+          "productIds": [
+            "398298"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/weldnuts2projections.jpg"
+        },
+        {
+          "id": "wing-nuts-4f4759",
+          "name": "Wing Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/wing-nuts",
+          "description": "Hand-tightened wing profiles for removable and adjustable connections.",
+          "productIds": [
+            "120061"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/nuts-wing-cold-forged-black.jpg"
+        },
+        {
+          "id": "allen-nuts-f17ea7",
+          "name": "12-Point Allen Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/allen-nuts?pid=6442",
+          "description": "A cylindrical nut with an internal twelve-point drive for hex-key installation.",
+          "productIds": [
+            "633189"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/910df758e37b.jpg"
+        }
+      ],
+      "productIds": [
+        "120021",
+        "120061",
+        "132080",
+        "132112",
+        "132226",
+        "141787",
+        "141824",
+        "145811",
+        "153179",
+        "170233",
+        "174916",
+        "194718",
+        "194826",
+        "201843",
+        "208750",
+        "215183",
+        "249469",
+        "260541",
+        "282295",
+        "317021",
+        "336457",
+        "397955",
+        "398298",
+        "420316",
+        "429023",
+        "457621",
+        "495020",
+        "519507",
+        "540554",
+        "547647",
+        "548582",
+        "580487",
+        "601761",
+        "607266",
+        "621144",
+        "633189",
+        "900001",
+        "910063",
+        "910067",
+        "910292",
+        "911902",
+        "911905"
+      ],
+      "skuCount": 42,
+      "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/thinstylenyloninsertlocknuts.jpg"
+    },
+    {
+      "id": "washers",
+      "name": "Washers",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/washers",
+      "description": "Distribute load, add spacing, or support sealing and locking in a fastening assembly.",
+      "types": [
+        {
+          "id": "countersunk-finishing-washers-f3c262",
+          "name": "Countersunk Finishing Washers",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/countersunk-finishing-washers",
+          "description": "Provide a finished bearing seat around a countersunk screw head.",
+          "productIds": [
+            "317508"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/finwashers.jpg"
+        },
+        {
+          "id": "dock-washers-ee6337",
+          "name": "Dock Washers",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/dock-washers",
+          "description": "Large bearing washers for distributing force over a broad surface.",
+          "productIds": [
+            "314934"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/dockwashers.jpg"
+        },
+        {
+          "id": "external-tooth-lock-washers-a56df4",
+          "name": "External Tooth Lockwashers",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/external-tooth-lock-washers",
+          "description": "Outward-facing teeth engage the bearing surfaces around the fastener.",
+          "productIds": [
+            "259480"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/externaltoothlockwashers.jpg"
+        },
+        {
+          "id": "fender-washers-0ba90c",
+          "name": "Fender Washers",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/fender-washers",
+          "description": "A large outside diameter spreads force over thin material or oversized holes.",
+          "productIds": [
+            "635515"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/fender.jpg"
+        },
+        {
+          "id": "flat-washers-e98a5f",
+          "name": "Flat Washers",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/flat-washers",
+          "description": "Distribute bearing force under a nut or bolt head and protect the mating surface.",
+          "productIds": [
+            "132350",
+            "145718",
+            "206110",
+            "259026",
+            "315245",
+            "316598",
+            "495641",
+            "551121",
+            "551493",
+            "599134"
+          ],
+          "skuCount": 10,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/b35fb72b00b0.jpg"
+        },
+        {
+          "id": "internal-tooth-lock-washers-8adf3a",
+          "name": "Internal Tooth Lockwashers",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/internal-tooth-lock-washers",
+          "description": "Inward-facing teeth engage near the fastener shank.",
+          "productIds": [
+            "221915"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/intwashers.jpg"
+        },
+        {
+          "id": "internal-external-combo-tooth-lock-washers-3b6bd7",
+          "name": "Internal / External Combo Tooth Lockwashers",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/internal-external-combo-tooth-lock-washers",
+          "description": "Teeth on both edges engage the surrounding bearing surfaces.",
+          "productIds": [
+            "120137"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/internalexternallockwashers.jpg"
+        },
+        {
+          "id": "metric-washers-f521f2",
+          "name": "Metric Washers",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/metric-washers",
+          "description": "Flat, fender, tooth-lock, and split-lock washers in metric dimensions.",
+          "productIds": [
+            "259026",
+            "259480"
+          ],
+          "skuCount": 2,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/18fe3462ec9e.jpg"
+        },
+        {
+          "id": "washers-military-sepc-8532b0",
+          "name": "Mil-Spec Washers",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/washers-military-sepc",
+          "description": "Washers organized by military-standard part identification.",
+          "productIds": [
+            "588340"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/washers-internal-tooth-lock-zinc-yellow.jpg"
+        },
+        {
+          "id": "bonded-sealing-washers-643be1",
+          "name": "Sealing Washers",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/bonded-sealing-washers",
+          "description": "Bonded sealing material under a metal washer helps close the fastener opening.",
+          "productIds": [
+            "576434"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/washers-bonded-sealing-neoprene.jpg"
+        },
+        {
+          "id": "shoulder-washers-e70302",
+          "name": "Shoulder Washers",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/shoulder-washers?pid=6054",
+          "description": "An extended inner sleeve separates or insulates the fastener from surrounding material.",
+          "productIds": [
+            "337317"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/nylonshoulderwashers.jpg"
+        },
+        {
+          "id": "split-lock-washers-2a643e",
+          "name": "Split Lockwashers",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/split-lock-washers",
+          "description": "Split-ring washer styles for compatible bolted assemblies.",
+          "productIds": [
+            "316956"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/splitlw.jpg"
+        },
+        {
+          "id": "structural-washers-53167d",
+          "name": "Structural Washers",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/structural-washers?pid=6056",
+          "description": "Hardened washers for use with compatible structural bolts and nuts.",
+          "productIds": [
+            "282310"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/structuralwashers.jpg"
+        },
+        {
+          "id": "thru-hard-washers-a34efa",
+          "name": "Thru Hard Washers",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/thru-hard-washers",
+          "description": "Heat-treated washers with controlled dimensions for demanding bolted assemblies.",
+          "productIds": [
+            "610055"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/uss-thru-hard-washers.jpg"
+        },
+        {
+          "id": "beveled-washers-ea0b3b",
+          "name": "Beveled Washers",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/beveled-washers?pid=6045",
+          "description": "An angled bearing face accommodates sloped surfaces such as beam flanges.",
+          "productIds": [
+            "315069"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/24605fdfd757.jpg"
+        }
+      ],
+      "productIds": [
+        "120137",
+        "132350",
+        "145718",
+        "206110",
+        "221915",
+        "259026",
+        "259480",
+        "282310",
+        "314934",
+        "315069",
+        "315245",
+        "316598",
+        "316956",
+        "317508",
+        "337317",
+        "495641",
+        "551121",
+        "551493",
+        "576434",
+        "588340",
+        "599134",
+        "610055",
+        "635515"
+      ],
+      "skuCount": 23,
+      "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/internalexternallockwashers.jpg"
+    },
+    {
+      "id": "rivets",
+      "name": "Rivets",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/rivets",
+      "description": "Permanent fastening options, matching washers, and installation equipment.",
+      "types": [
+        {
+          "id": "blind-rivets-bd068e",
+          "name": "Blind Rivets",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/blind-rivets",
+          "description": "Install a permanent joint from one accessible side by pulling the rivet mandrel.",
+          "productIds": [
+            "218074",
+            "218445",
+            "220190",
+            "322849",
+            "322915",
+            "371731",
+            "371759",
+            "371935",
+            "372156",
+            "373142"
+          ],
+          "skuCount": 10,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/ee32c9dab81a.jpg"
+        },
+        {
+          "id": "bulbing-type-blind-rivets-1a8e22",
+          "name": "Bulbing Type Blind Rivets",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/bulbing-type-blind-rivets",
+          "description": "A bulbing blind-side profile provides the formed side of the joint.",
+          "productIds": [
+            "295033"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/3700c599b838.jpg"
+        },
+        {
+          "id": "drive-pin-rivets-e43591",
+          "name": "Drive Pin Rivets",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/drive-pin-rivets",
+          "description": "Drive the central pin to expand and secure the rivet body.",
+          "productIds": [
+            "285764"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/driverivetun.jpg"
+        },
+        {
+          "id": "multi-grip-rivets-167eb3",
+          "name": "Multi Grip Rivets",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/multi-grip-rivets",
+          "description": "One rivet size accommodates a specified range of material thicknesses.",
+          "productIds": [
+            "218928"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/9fa989ff73c1.jpg"
+        },
+        {
+          "id": "structural-rivets-d859a4",
+          "name": "Structural Rivets",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/structural-rivets",
+          "description": "Rivet designs for higher-strength permanent fastening applications.",
+          "productIds": [
+            "435529"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/rivets-structural-protruding-head.jpg"
+        },
+        {
+          "id": "back-up-washers-209a09",
+          "name": "Back Up Washers",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/back-up-washers?pid=6403",
+          "description": "Provide an additional bearing surface behind a riveted joint.",
+          "productIds": [
+            "610199"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/138cfeeb92ca.jpg"
+        },
+        {
+          "id": "pneumatic-rivet-gun-6c456d",
+          "name": "Pneumatic Rivet Gun",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/pneumatic-rivet-gun?pid=6063",
+          "description": "Air-powered installation equipment for compatible blind rivets.",
+          "productIds": [
+            "220024"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/rivetgun.jpg"
+        }
+      ],
+      "productIds": [
+        "218074",
+        "218445",
+        "218928",
+        "220024",
+        "220190",
+        "285764",
+        "295033",
+        "322849",
+        "322915",
+        "371731",
+        "371759",
+        "371935",
+        "372156",
+        "373142",
+        "435529",
+        "610199"
+      ],
+      "skuCount": 16,
+      "image": "/discount-screws/catalog-images/ee32c9dab81a.jpg"
+    },
+    {
+      "id": "spacers-standoffs",
+      "name": "Spacers & Standoffs",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/spacers-standoffs",
+      "description": "Control the distance between components with threaded and unthreaded hardware.",
+      "types": [
+        {
+          "id": "hex-standoffs-female-female-e90c15",
+          "name": "Hex Standoffs (Female / Female)",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/hex-standoffs-female-female",
+          "description": "Internally threaded at both ends to space and join mounted components.",
+          "productIds": [
+            "430523",
+            "811986"
+          ],
+          "skuCount": 2,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/hexstoff.jpg"
+        },
+        {
+          "id": "hex-standoffs-male-female-1c24ae",
+          "name": "Hex Standoffs (Male / Female)",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/hex-standoffs-male-female",
+          "description": "An external thread at one end and an internal thread at the other maintain spacing.",
+          "productIds": [
+            "427962",
+            "811145"
+          ],
+          "skuCount": 2,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/mfstoffs.jpg"
+        },
+        {
+          "id": "metric-hex-standoffs-female-female-f55a70",
+          "name": "Metric Hex Standoffs (Female / Female)",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/metric-hex-standoffs-female-female",
+          "description": "Metric internal threads at both ends provide controlled component spacing.",
+          "productIds": [
+            "811986"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/hexstoff.jpg"
+        },
+        {
+          "id": "metric-hex-standoffs-male-female-802d65",
+          "name": "Metric Hex Standoffs (Male / Female)",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/metric-hex-standoffs-male-female",
+          "description": "Metric male and female threads connect components at a fixed separation.",
+          "productIds": [
+            "811145"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/mfstoffs.jpg"
+        },
+        {
+          "id": "round-standoffs-female-female-85484c",
+          "name": "Round Standoffs (Female / Female)",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/round-standoffs-female-female",
+          "description": "Round-bodied, internally threaded spacers for mounting assemblies.",
+          "productIds": [
+            "335043"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/6e538f5e7376.jpg"
+        },
+        {
+          "id": "round-standoffs-male-female-9db83d",
+          "name": "Round Standoffs (Male / Female)",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/round-standoffs-male-female",
+          "description": "Round-bodied standoffs with male and female threaded ends.",
+          "productIds": [
+            "250863"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/roundmfstandoffs.png"
+        },
+        {
+          "id": "round-spacers-3526ee",
+          "name": "Round Spacers",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/round-spacers",
+          "description": "Unthreaded cylindrical sleeves establish distance between components.",
+          "productIds": [
+            "253017",
+            "254292",
+            "255563",
+            "255752",
+            "334271",
+            "431436",
+            "617400",
+            "930039",
+            "930240"
+          ],
+          "skuCount": 9,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/d89d7c2b54e3.jpg"
+        },
+        {
+          "id": "hex-spacers-5d05e5",
+          "name": "Hex Spacers",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/hex-spacers",
+          "description": "Unthreaded hex-bodied spacers maintain separation in an assembly.",
+          "productIds": [
+            "334161"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/hexspacersnylon.jpg"
+        },
+        {
+          "id": "jack-screws-2429c3",
+          "name": "Hex Jack Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/jack-screws",
+          "description": "Small threaded mounting hardware for connectors and electronic assemblies.",
+          "productIds": [
+            "449006"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/jackscrews3.jpg"
+        }
+      ],
+      "productIds": [
+        "250863",
+        "253017",
+        "254292",
+        "255563",
+        "255752",
+        "334161",
+        "334271",
+        "335043",
+        "427962",
+        "430523",
+        "431436",
+        "449006",
+        "617400",
+        "811145",
+        "811986",
+        "930039",
+        "930240"
+      ],
+      "skuCount": 17,
+      "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/roundmfstandoffs.png"
+    },
+    {
+      "id": "rack-mounting-nuts",
+      "name": "Rack Mounting Nuts",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/rack-mounting-nuts",
+      "description": "Cage nuts, clip nuts, and coordinated hardware sets for equipment racks.",
+      "types": [
+        {
+          "id": "rack-mounting-cage-nuts-554555",
+          "name": "Rack Mounting Cage Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/rack-mounting-cage-nuts?pid=6072",
+          "description": "Caged nuts provide threaded mounting points in compatible rack rails.",
+          "productIds": [
+            "910063"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/cagenuts.jpg"
+        },
+        {
+          "id": "rack-mounting-cage-nuts-with-screws-washers-33ef96",
+          "name": "Rack Mounting Cage Nuts With Screws & Washers",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/rack-mounting-cage-nuts-with-screws-washers?pid=6073",
+          "description": "A coordinated cage-nut, screw, and washer set for rack equipment.",
+          "productIds": [
+            "911905"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/45818decee43.png"
+        },
+        {
+          "id": "rack-mounting-clip-nuts-3f209d",
+          "name": "Rack Mounting Clip Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/rack-mounting-clip-nuts?pid=6074",
+          "description": "Clip-style threaded fasteners attach to compatible rack rails.",
+          "productIds": [
+            "900001"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/clipnuts.jpg"
+        },
+        {
+          "id": "rack-mounting-clip-nuts-with-screws-washers-439d2c",
+          "name": "Rack Mounting Clip Nuts With Screws & Washers",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/rack-mounting-clip-nuts-with-screws-washers?pid=6075",
+          "description": "Clip nuts supplied with screws and washers for rack installations.",
+          "productIds": [
+            "911902"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/clipnutwithscrews.jpg"
+        }
+      ],
+      "productIds": [
+        "900001",
+        "910063",
+        "911902",
+        "911905"
+      ],
+      "skuCount": 4,
+      "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/clipnuts.jpg"
+    },
+    {
+      "id": "metric",
+      "name": "Metric",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/metric",
+      "description": "Metric-threaded screws, bolts, nuts, and hardware collected in one place.",
+      "types": [
+        {
+          "id": "metric-screws-b66056",
+          "name": "Metric Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/metric-screws",
+          "description": "Machine, SEMS, and thread-forming screws sized with metric threads.",
+          "productIds": [
+            "259716",
+            "435330",
+            "505200",
+            "508458",
+            "531912",
+            "532013",
+            "561205"
+          ],
+          "skuCount": 7,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/b80e08090bc5.jpg"
+        },
+        {
+          "id": "metric-bolts-296e48",
+          "name": "Metric Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/metric-bolts",
+          "description": "Hex, flange, and carriage bolt options with metric thread dimensions.",
+          "productIds": [
+            "274931",
+            "275505",
+            "276593",
+            "425711"
+          ],
+          "skuCount": 4,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/5c3843a42a30.jpg"
+        },
+        {
+          "id": "metric-nuts-f77fa8",
+          "name": "Metric Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/metric-nuts",
+          "description": "Threaded nut styles sized for matching metric fasteners.",
+          "productIds": [
+            "260541",
+            "429023",
+            "540554",
+            "548582",
+            "580487",
+            "910292",
+            "911902",
+            "911905"
+          ],
+          "skuCount": 8,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/c8b5dd45e1da.jpg"
+        },
+        {
+          "id": "metric-sockets-5cdd35",
+          "name": "Metric Sockets",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/metric-sockets",
+          "description": "Socket-drive cap screws, set screws, and hex keys in metric sizes.",
+          "productIds": [
+            "227104",
+            "926941"
+          ],
+          "skuCount": 2,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/fdfdd88737c4.jpg"
+        },
+        {
+          "id": "metric-round-spacers-a86fa5",
+          "name": "Metric Spacers (Unthreaded)",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/metric-round-spacers?pid=6451",
+          "description": "Unthreaded metric sleeves maintain spacing between mounted components.",
+          "productIds": [
+            "930039",
+            "930240"
+          ],
+          "skuCount": 2,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/6e538f5e7376.jpg"
+        },
+        {
+          "id": "metric-hex-standoffs-female-female-f55a70",
+          "name": "Metric Hex Standoffs (Female/Female)",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/metric-hex-standoffs-female-female",
+          "description": "Metric internal threads at both ends provide controlled component spacing.",
+          "productIds": [
+            "811986"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/hexstoff.jpg"
+        },
+        {
+          "id": "metric-hex-standoffs-male-female-802d65",
+          "name": "Metric Hex Standoffs (Male/Female)",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/metric-hex-standoffs-male-female",
+          "description": "Metric male and female threads connect components at a fixed separation.",
+          "productIds": [
+            "811145"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/mfstoffs.jpg"
+        },
+        {
+          "id": "metric-washers-f521f2",
+          "name": "Metric Washers",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/metric-washers",
+          "description": "Flat, fender, tooth-lock, and split-lock washers in metric dimensions.",
+          "productIds": [
+            "259026",
+            "259480"
+          ],
+          "skuCount": 2,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/18fe3462ec9e.jpg"
+        },
+        {
+          "id": "self-clinching-hardware-metric-17694c",
+          "name": "Self-Clinching Hardware",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/self-clinching-hardware-metric",
+          "description": "Clinch nuts and studs create permanent threaded points in thin sheet metal.",
+          "productIds": [
+            "516399"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/clinchnuts.jpg"
+        },
+        {
+          "id": "roll-spring-pins-metric-f8110f",
+          "name": "Metric Roll / Spring Pins",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/roll-spring-pins-metric?pid=6237",
+          "description": "Metric slotted spring pins compress into a correctly sized retaining hole.",
+          "productIds": [
+            "542244"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/rollspringpinsplain.jpg"
+        },
+        {
+          "id": "metric-retaining-rings-064b4c",
+          "name": "Metric Retaining Rings",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/metric-retaining-rings",
+          "description": "Metric rings retain components in matching shaft or bore grooves.",
+          "productIds": [
+            "605457"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/intstyleblackphos.jpg"
+        }
+      ],
+      "productIds": [
+        "227104",
+        "259026",
+        "259480",
+        "259716",
+        "260541",
+        "274931",
+        "275505",
+        "276593",
+        "425711",
+        "429023",
+        "435330",
+        "505200",
+        "508458",
+        "516399",
+        "531912",
+        "532013",
+        "540554",
+        "542244",
+        "548582",
+        "561205",
+        "580487",
+        "605457",
+        "811145",
+        "811986",
+        "910292",
+        "911902",
+        "911905",
+        "926941",
+        "930039",
+        "930240"
+      ],
+      "skuCount": 30,
+      "image": "/discount-screws/catalog-images/fdfdd88737c4.jpg"
+    },
+    {
+      "id": "sockets",
+      "name": "Sockets",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/sockets",
+      "description": "Socket-drive screws, shoulder screws, pipe plugs, and installation keys.",
+      "types": [
+        {
+          "id": "socket-head-cap-screws-d08378",
+          "name": "Socket Head Cap Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/socket-head-cap-screws",
+          "description": "Cylindrical heads with internal hex drives for compact machine fastening.",
+          "productIds": [
+            "208044"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/socketheadcapscrews.jpg"
+        },
+        {
+          "id": "button-head-socket-cap-screws-703ffa",
+          "name": "Button Head Socket Cap Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/button-head-socket-cap-screws",
+          "description": "A low, rounded head with an internal hex drive.",
+          "productIds": [
+            "136383"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/d21bffbe371b.jpg"
+        },
+        {
+          "id": "flat-head-socket-cap-screws-2760a1",
+          "name": "Flat Head Socket Cap Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/flat-head-socket-cap-screws",
+          "description": "An internal hex drive with a countersunk head for a flush surface.",
+          "productIds": [
+            "113551",
+            "140986",
+            "149020",
+            "151265",
+            "199034",
+            "199317",
+            "200305",
+            "202646",
+            "227104",
+            "281713",
+            "926941"
+          ],
+          "skuCount": 11,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/fdfdd88737c4.jpg"
+        },
+        {
+          "id": "metric-sockets-5cdd35",
+          "name": "Metric Sockets",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/metric-sockets",
+          "description": "Socket-drive cap screws, set screws, and hex keys in metric sizes.",
+          "productIds": [
+            "227104",
+            "926941"
+          ],
+          "skuCount": 2,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/fdfdd88737c4.jpg"
+        },
+        {
+          "id": "low-head-socket-cap-screws-8faa1c",
+          "name": "Low Head Socket Cap Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/low-head-socket-cap-screws?pid=6079",
+          "description": "A reduced head height provides clearance in tight assemblies.",
+          "productIds": [
+            "141004"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/lowheadsocketscrews.jpg"
+        },
+        {
+          "id": "socket-set-screws-3bc75d",
+          "name": "Socket Set Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/socket-set-screws",
+          "description": "Headless socket-drive screws position or hold one component against another.",
+          "productIds": [
+            "109945"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/setscrews.jpg"
+        },
+        {
+          "id": "hex-keys-allen-wrenches-a351e1",
+          "name": "Hex Keys / Allen Wrenches",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/hex-keys-allen-wrenches",
+          "description": "Tools for installing compatible internal-hex fasteners.",
+          "productIds": [
+            "100225"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/shortkey.jpg"
+        },
+        {
+          "id": "military-spec-sockets-fe2308",
+          "name": "Mil-Spec Sockets",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/military-spec-sockets",
+          "description": "Socket fasteners identified by military-standard part numbers.",
+          "productIds": [
+            "401700"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/scs.jpg"
+        },
+        {
+          "id": "socket-shoulder-screws-c0e9fb",
+          "name": "Socket Shoulder Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/socket-shoulder-screws?pid=6085",
+          "description": "A smooth enlarged shoulder supports components that rotate or slide.",
+          "productIds": [
+            "199964"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/socsh.jpg"
+        },
+        {
+          "id": "socket-pipe-plugs-c91682",
+          "name": "Socket Pipe Plugs",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/socket-pipe-plugs",
+          "description": "Socket-driven plugs close compatible threaded ports and pipe openings.",
+          "productIds": [
+            "100573"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/socket-pipe-plug-dry-seal-black.jpg"
+        }
+      ],
+      "productIds": [
+        "100225",
+        "100573",
+        "109945",
+        "113551",
+        "136383",
+        "140986",
+        "141004",
+        "149020",
+        "151265",
+        "199034",
+        "199317",
+        "199964",
+        "200305",
+        "202646",
+        "208044",
+        "227104",
+        "281713",
+        "401700",
+        "926941"
+      ],
+      "skuCount": 19,
+      "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/shortkey.jpg"
+    },
+    {
+      "id": "mil-spec",
+      "name": "Mil-Spec",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/mil-spec",
+      "description": "Find fasteners by their military-standard part numbers and listed specifications.",
+      "types": [
+        {
+          "id": "mil-spec-bolts-1a7f69",
+          "name": "Mil-Spec Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/mil-spec-bolts",
+          "description": "Bolts organized by their military-standard part identification.",
+          "productIds": [
+            "484247"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/ms90725.jpg"
+        },
+        {
+          "id": "mil-spec-machine-screws-9af8e1",
+          "name": "Mil-Spec Machine Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/mil-spec-machine-screws",
+          "description": "Machine screws identified by military-standard part numbers and dimensions.",
+          "productIds": [
+            "514825"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/ms24693s.jpg"
+        },
+        {
+          "id": "mil-spec-self-tapping-screws-55b4f7",
+          "name": "Mil-Spec Self Tapping Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/mil-spec-self-tapping-screws",
+          "description": "Tapping screws identified by military-standard part numbers.",
+          "productIds": [
+            "524666"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/screws-self-tapping-type-ab-phillips-pan-zinc-yellow.jpg"
+        },
+        {
+          "id": "mil-spec-nuts-f46d25",
+          "name": "Mil-Spec Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/mil-spec-nuts",
+          "description": "Nuts identified by their specified military-standard part numbers.",
+          "productIds": [
+            "495020"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/nuts-finished-hex-zinc-yellow.jpg"
+        },
+        {
+          "id": "mil-spec-sockets-8d09ab",
+          "name": "Mil-Spec Sockets",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/mil-spec-sockets",
+          "description": "Socket fasteners identified by military-standard part numbers.",
+          "productIds": [
+            "401700"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/scs.jpg"
+        },
+        {
+          "id": "mil-spec-washers-01f155",
+          "name": "Mil-Spec Washers",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/mil-spec-washers",
+          "description": "Washers organized by military-standard part identification.",
+          "productIds": [
+            "588340"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/washers-internal-tooth-lock-zinc-yellow.jpg"
+        },
+        {
+          "id": "mil-spec-pins-74801d",
+          "name": "Mil-Spec Pins",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/mil-spec-pins",
+          "description": "Pins organized by their specified military-standard identification.",
+          "productIds": [
+            "583616"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/mil-spec-pins-spring-roll.jpg"
+        },
+        {
+          "id": "mil-spec-retaining-rings-ba3708",
+          "name": "Mil-Spec Retaining Rings",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/mil-spec-retaining-rings?pid=6405",
+          "description": "Retaining rings identified by military-standard part numbers.",
+          "productIds": [
+            "618177"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/intstyle.jpg"
+        }
+      ],
+      "productIds": [
+        "401700",
+        "484247",
+        "495020",
+        "514825",
+        "524666",
+        "583616",
+        "588340",
+        "618177"
+      ],
+      "skuCount": 8,
+      "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/scs.jpg"
+    },
+    {
+      "id": "pins-bushings",
+      "name": "Pins / Bushings",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/pins",
+      "description": "Locate, align, retain, and protect moving or assembled components.",
+      "types": [
+        {
+          "id": "cotter-pins-5215a2",
+          "name": "Cotter Pins",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/cotter-pins?pid=6146",
+          "description": "Split legs spread after insertion to retain a pinned assembly.",
+          "productIds": [
+            "132727"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/cotterpins.jpg"
+        },
+        {
+          "id": "dowel-pins-56e28d",
+          "name": "Dowel Pins",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/dowel-pins",
+          "description": "Precision cylindrical pins locate or align mating components.",
+          "productIds": [
+            "100364",
+            "100456",
+            "100469",
+            "165503",
+            "175654",
+            "185596",
+            "187134",
+            "188872",
+            "200398",
+            "206534"
+          ],
+          "skuCount": 10,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/703070aad31f.jpg"
+        },
+        {
+          "id": "hitch-bridge-pins-541a29",
+          "name": "Hitch / Bridge Pins",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/hitch-bridge-pins?pid=6148",
+          "description": "Formed-wire clips retain a compatible pin or shaft.",
+          "productIds": [
+            "437954"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/hitchbridgepins.jpg"
+        },
+        {
+          "id": "roll-spring-pins-04dfae",
+          "name": "Roll / Spring Pins",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/roll-spring-pins",
+          "description": "Slotted spring pins compress into a smaller hole to hold an assembly.",
+          "productIds": [
+            "156503",
+            "542244"
+          ],
+          "skuCount": 2,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/rollspringpinsplain.jpg"
+        },
+        {
+          "id": "coiled-spring-pins-f74939",
+          "name": "Coiled Spring Pins",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/coiled-spring-pins",
+          "description": "Coiled spring-steel pins provide a resilient fit in a retaining hole.",
+          "productIds": [
+            "573005"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/pins-coiled-spring-black.png"
+        },
+        {
+          "id": "military-spec-pins-7e9ec0",
+          "name": "Mil-Spec Pins",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/military-spec-pins",
+          "description": "Pins organized by their specified military-standard identification.",
+          "productIds": [
+            "583616"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/mil-spec-pins-spring-roll.jpg"
+        },
+        {
+          "id": "bushings-tension-control-pins-484276",
+          "name": "Bushings",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/bushings-tension-control-pins?pid=6443",
+          "description": "Protect the bore or shaft at pivot points and moving assemblies.",
+          "productIds": [
+            "600115"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/tensionbushing.jpg"
+        }
+      ],
+      "productIds": [
+        "100364",
+        "100456",
+        "100469",
+        "132727",
+        "156503",
+        "165503",
+        "175654",
+        "185596",
+        "187134",
+        "188872",
+        "200398",
+        "206534",
+        "437954",
+        "542244",
+        "573005",
+        "583616",
+        "600115"
+      ],
+      "skuCount": 17,
+      "image": "/discount-screws/catalog-images/703070aad31f.jpg"
+    },
+    {
+      "id": "retaining-rings",
+      "name": "Retaining Rings",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/retaining-rings",
+      "description": "Rings for shaft and bore grooves, with installation tools and kits.",
+      "types": [
+        {
+          "id": "e-style-retaining-rings-d0cc72",
+          "name": "E Style Retaining Rings",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/e-style-retaining-rings",
+          "description": "Three inward contact points engage a matching groove on a shaft.",
+          "productIds": [
+            "235688"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/estyle.jpg"
+        },
+        {
+          "id": "external-style-retaining-rings-05e6ca",
+          "name": "External Style Retaining Rings",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/external-style-retaining-rings",
+          "description": "Fit around a grooved shaft to retain components along it.",
+          "productIds": [
+            "236159"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/extring.jpg"
+        },
+        {
+          "id": "internal-style-retaining-rings-8f5a62",
+          "name": "Internal Style Retaining Rings",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/internal-style-retaining-rings",
+          "description": "Fit inside a grooved bore to retain internal components.",
+          "productIds": [
+            "235837"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/intstyle.jpg"
+        },
+        {
+          "id": "retaining-ring-tools-kits-132e5c",
+          "name": "Retaining Ring Tools & Kits",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/retaining-ring-tools-kits?pid=6153",
+          "description": "Pliers and tip kits for installing or removing compatible retaining rings.",
+          "productIds": [
+            "248693"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/e6d9a8c3ca86.jpg"
+        }
+      ],
+      "productIds": [
+        "235688",
+        "235837",
+        "236159",
+        "248693"
+      ],
+      "skuCount": 4,
+      "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/estyle.jpg"
+    },
+    {
+      "id": "electronic-hardware",
+      "name": "Electronic Hardware",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/electronic-hardware",
+      "description": "Small assembly hardware for enclosures, connectors, wiring, and mounted components.",
+      "types": [
+        {
+          "id": "knurled-thumb-screws-6ee25d",
+          "name": "Knurled Thumb Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/knurled-thumb-screws",
+          "description": "Textured cylindrical heads provide a grip for hand adjustment.",
+          "productIds": [
+            "449745"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/thumsscrewsround.jpg"
+        },
+        {
+          "id": "precision-shoulder-screws-55aa6e",
+          "name": "Precision Shoulder Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/precision-shoulder-screws",
+          "description": "A controlled shoulder dimension locates moving or mounted components.",
+          "productIds": [
+            "812216"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/precisionscrewssocket.jpg"
+        },
+        {
+          "id": "jack-screws-2429c3",
+          "name": "Jack Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/jack-screws",
+          "description": "Small threaded mounting hardware for connectors and electronic assemblies.",
+          "productIds": [
+            "449006"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/jackscrews3.jpg"
+        },
+        {
+          "id": "handles-2da222",
+          "name": "Handles",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/handles",
+          "description": "Internally threaded instrumentation handles for electronic enclosures and equipment.",
+          "productIds": [
+            "843008"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/handleblack.jpg"
+        },
+        {
+          "id": "nylon-cable-clamps-35f4f6",
+          "name": "Nylon Cable Clamps",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/nylon-cable-clamps",
+          "description": "Nylon clamps bundle and locate cables or wiring.",
+          "productIds": [
+            "338228"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/43157174af15.jpg"
+        },
+        {
+          "id": "cable-ties-8e28ac",
+          "name": "Cable Ties",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/cable-ties",
+          "description": "Bundle cables with standard, outdoor-rated, or removable tie styles.",
+          "productIds": [
+            "792120"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/naturalcabletie.jpg"
+        },
+        {
+          "id": "self-clinching-hardware-7e374d",
+          "name": "Self-Clinching Hardware",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/self-clinching-hardware",
+          "description": "Clinch nuts and studs create permanent threaded points in thin sheet metal.",
+          "productIds": [
+            "145811",
+            "149554",
+            "516399"
+          ],
+          "skuCount": 3,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/clinchnuts.jpg"
+        },
+        {
+          "id": "hex-standoffs-female-female-e90c15",
+          "name": "Hex Standoffs (Female / Female)",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/hex-standoffs-female-female",
+          "description": "Internally threaded at both ends to space and join mounted components.",
+          "productIds": [
+            "430523",
+            "811986"
+          ],
+          "skuCount": 2,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/hexstoff.jpg"
+        },
+        {
+          "id": "hex-standoffs-male-female-1c24ae",
+          "name": "Hex Standoffs (Male / Female)",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/hex-standoffs-male-female",
+          "description": "An external thread at one end and an internal thread at the other maintain spacing.",
+          "productIds": [
+            "427962",
+            "811145"
+          ],
+          "skuCount": 2,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/mfstoffs.jpg"
+        },
+        {
+          "id": "metric-hex-standoffs-female-female-f55a70",
+          "name": "Metric Hex Standoffs (Female / Female)",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/metric-hex-standoffs-female-female",
+          "description": "Metric internal threads at both ends provide controlled component spacing.",
+          "productIds": [
+            "811986"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/hexstoff.jpg"
+        },
+        {
+          "id": "metric-hex-standoffs-male-female-802d65",
+          "name": "Metric Hex Standoffs (Male / Female)",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/metric-hex-standoffs-male-female",
+          "description": "Metric male and female threads connect components at a fixed separation.",
+          "productIds": [
+            "811145"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/mfstoffs.jpg"
+        },
+        {
+          "id": "round-standoffs-female-female-85484c",
+          "name": "Round Standoffs (Female / Female)",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/round-standoffs-female-female",
+          "description": "Round-bodied, internally threaded spacers for mounting assemblies.",
+          "productIds": [
+            "335043"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/6e538f5e7376.jpg"
+        },
+        {
+          "id": "round-standoffs-male-female-9db83d",
+          "name": "Round Standoffs (Male / Female)",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/round-standoffs-male-female",
+          "description": "Round-bodied standoffs with male and female threaded ends.",
+          "productIds": [
+            "250863"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/roundmfstandoffs.png"
+        },
+        {
+          "id": "hex-spacers-5d05e5",
+          "name": "Hex Spacers",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/hex-spacers",
+          "description": "Unthreaded hex-bodied spacers maintain separation in an assembly.",
+          "productIds": [
+            "334161"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/hexspacersnylon.jpg"
+        },
+        {
+          "id": "round-spacers-3526ee",
+          "name": "Round Spacers",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/round-spacers",
+          "description": "Unthreaded cylindrical sleeves establish distance between components.",
+          "productIds": [
+            "253017",
+            "254292",
+            "255563",
+            "255752",
+            "334271",
+            "431436",
+            "617400",
+            "930039",
+            "930240"
+          ],
+          "skuCount": 9,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/d89d7c2b54e3.jpg"
+        }
+      ],
+      "productIds": [
+        "145811",
+        "149554",
+        "250863",
+        "253017",
+        "254292",
+        "255563",
+        "255752",
+        "334161",
+        "334271",
+        "335043",
+        "338228",
+        "427962",
+        "430523",
+        "431436",
+        "449006",
+        "449745",
+        "516399",
+        "617400",
+        "792120",
+        "811145",
+        "811986",
+        "812216",
+        "843008",
+        "930039",
+        "930240"
+      ],
+      "skuCount": 25,
+      "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/clinchnuts.jpg"
+    },
+    {
+      "id": "anchors",
+      "name": "Anchors",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/anchors",
+      "description": "Fastening options for suitable wallboard, hollow-wall, concrete, and masonry applications.",
+      "types": [
+        {
+          "id": "plastic-anchors-c7054b",
+          "name": "Plastic Anchors",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/plastic-anchors",
+          "description": "Light-duty inserts for compatible wall fastening applications.",
+          "productIds": [
+            "317421"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/f63781c06103.jpg"
+        },
+        {
+          "id": "cable-ties-8e28ac",
+          "name": "Cable Ties",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/cable-ties",
+          "description": "Bundle cables with standard, outdoor-rated, or removable tie styles.",
+          "productIds": [
+            "792120"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/naturalcabletie.jpg"
+        },
+        {
+          "id": "concrete-screws-df10c9",
+          "name": "Concrete Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/concrete-screws",
+          "description": "Thread directly into a prepared masonry hole for attaching fixtures to concrete, block, or brick.",
+          "productIds": [
+            "282981",
+            "282996",
+            "283298",
+            "283308",
+            "283427",
+            "283430",
+            "283616",
+            "283700",
+            "283807",
+            "285089",
+            "285113",
+            "928124",
+            "948002",
+            "948126"
+          ],
+          "skuCount": 14,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/02193e98d760.jpg"
+        },
+        {
+          "id": "wallboard-anchors-e0cf7f",
+          "name": "Wallboard Anchors",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/wallboard-anchors",
+          "description": "Externally threaded anchors for fastening in drywall.",
+          "productIds": [
+            "282873"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/wallboardanchors.jpg"
+        },
+        {
+          "id": "hollow-wall-anchors-fe7528",
+          "name": "Hollow Wall Anchors",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/hollow-wall-anchors",
+          "description": "Anchors that secure attachments in hollow wall materials.",
+          "productIds": [
+            "282925"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/hammerdriveanchorsstd.jpg"
+        },
+        {
+          "id": "plastic-toggles-fffa28",
+          "name": "Plastic Toggles",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/plastic-toggles?pid=6180",
+          "description": "Polypropylene toggles provide a backing point inside a hollow wall.",
+          "productIds": [
+            "284909"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/plastictoggles.jpg"
+        },
+        {
+          "id": "toggle-bolts-266e4b",
+          "name": "Toggle Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/toggle-bolts",
+          "description": "Spring wings open behind a hollow wall and tighten against the back surface.",
+          "productIds": [
+            "283784"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/togglebolts.jpg"
+        },
+        {
+          "id": "lag-screw-shields-655c07",
+          "name": "Lag Screw Shields",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/lag-screw-shields?pid=6176",
+          "description": "An expanding shield provides a seat for a matching lag screw.",
+          "productIds": [
+            "202042"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/lagshield.jpg"
+        },
+        {
+          "id": "drop-in-anchors-412576",
+          "name": "Drop-In Anchors",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/drop-in-anchors",
+          "description": "Internally threaded anchors installed in a prepared hole with the correct setting tool.",
+          "productIds": [
+            "284648"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/dropin.jpg"
+        },
+        {
+          "id": "wedge-anchors-7ec3d3",
+          "name": "Wedge Anchors",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/wedge-anchors",
+          "description": "Expansion-style anchors for fastening to suitable solid base materials.",
+          "productIds": [
+            "165712",
+            "187909",
+            "213062",
+            "284404",
+            "284541",
+            "284714",
+            "284765",
+            "409358",
+            "409391",
+            "409433"
+          ],
+          "skuCount": 10,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/8f472d97af22.jpg"
+        },
+        {
+          "id": "t-anchors-85573a",
+          "name": "T Anchors",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/t-anchors?pid=6183",
+          "description": "A pivoting end and threaded shank provide a clamping connection.",
+          "productIds": [
+            "440761"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/tanchors.jpg"
+        },
+        {
+          "id": "toggle-wings-84ad0d",
+          "name": "Toggle Wings",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/toggle-wings?pid=6185",
+          "description": "Replacement spring wings for compatible machine-screw toggle assemblies.",
+          "productIds": [
+            "145538"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/togglewings.jpg"
+        },
+        {
+          "id": "expansion-pin-anchors-828112",
+          "name": "Expansion Pin Anchors",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/expansion-pin-anchors?pid=6228",
+          "description": "A driven pin expands the anchor within a prepared masonry hole.",
+          "productIds": [
+            "440823"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/6796ad775dcd.jpg"
+        },
+        {
+          "id": "hammer-drive-anchors-ac23ea",
+          "name": "Hammer Drive Anchors",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/hammer-drive-anchors",
+          "description": "A driven center pin expands the anchor body into its prepared hole.",
+          "productIds": [
+            "283238"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/hammerdriveanchors.jpg"
+        },
+        {
+          "id": "plastic-drive-pin-anchor-rivets-1a2275",
+          "name": "Plastic Drive Pin Anchor Rivets",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/plastic-drive-pin-anchor-rivets?pid=6229",
+          "description": "A driven nail expands a ribbed plastic body inside the mounting hole.",
+          "productIds": [
+            "461822"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/a355076de69b.jpg"
+        },
+        {
+          "id": "sleeve-anchors-b9a33c",
+          "name": "Sleeve Anchors",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/sleeve-anchors",
+          "description": "A sleeve expands around the fastener when tightened in suitable base material.",
+          "productIds": [
+            "285311"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/sleeveanchor.jpg"
+        },
+        {
+          "id": "expansion-anchors-80fbb6",
+          "name": "Expansion Anchors",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/expansion-anchors",
+          "description": "Expanding anchors accept a compatible screw or bolt in masonry assemblies.",
+          "productIds": [
+            "284828"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/singleexpansionanchors.jpg"
+        },
+        {
+          "id": "lead-wood-screw-anchors-38d0d0",
+          "name": "Lead Wood Screw Anchors",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/lead-wood-screw-anchors?pid=6177",
+          "description": "Soft-metal inserts accept wood, lag, or tapping screws in appropriate base materials.",
+          "productIds": [
+            "284967"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/leadwoodscrewanchors.jpg"
+        },
+        {
+          "id": "split-drive-anchors-4a7d54",
+          "name": "Split Drive Anchors",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/split-drive-anchors",
+          "description": "Drive-in anchors for compatible static-load applications in concrete or stone.",
+          "productIds": [
+            "284370"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/roundsplitdriveanchors.jpg"
+        },
+        {
+          "id": "machine-screw-anchors-727ab6",
+          "name": "Machine Screw Anchors",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/machine-screw-anchors?pid=6178",
+          "description": "A soft outer sleeve conforms to a prepared hole and accepts a machine screw.",
+          "productIds": [
+            "284002"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/ed954995d3ab.jpg"
+        },
+        {
+          "id": "drop-in-anchor-setting-tools-b08d45",
+          "name": "Drop In Anchor Setting Tools",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/drop-in-anchor-setting-tools?pid=6171",
+          "description": "Set a compatible drop-in anchor by driving its internal expansion mechanism.",
+          "productIds": [
+            "284929"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/dropinanchors.jpg"
+        }
+      ],
+      "productIds": [
+        "145538",
+        "165712",
+        "187909",
+        "202042",
+        "213062",
+        "282873",
+        "282925",
+        "282981",
+        "282996",
+        "283238",
+        "283298",
+        "283308",
+        "283427",
+        "283430",
+        "283616",
+        "283700",
+        "283784",
+        "283807",
+        "284002",
+        "284370",
+        "284404",
+        "284541",
+        "284648",
+        "284714",
+        "284765",
+        "284828",
+        "284909",
+        "284929",
+        "284967",
+        "285089",
+        "285113",
+        "285311",
+        "317421",
+        "409358",
+        "409391",
+        "409433",
+        "440761",
+        "440823",
+        "461822",
+        "792120",
+        "928124",
+        "948002",
+        "948126"
+      ],
+      "skuCount": 43,
+      "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/togglewings.jpg"
+    },
+    {
+      "id": "tools",
+      "name": "Tools",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/tools",
+      "description": "Driver bits, installation tools, adhesives, and compounds for completing the assembly.",
+      "types": [
+        {
+          "id": "insert-power-bits-e72b31",
+          "name": "Insert / Power Bits",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/insert-power-bits",
+          "description": "Replaceable driver bits for matching screw-drive styles and installation tools.",
+          "productIds": [
+            "183932"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/tools-bits-insert-torx.jpg"
+        },
+        {
+          "id": "bushings-tension-control-5d2670",
+          "name": "Bushings",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/bushings-tension-control?pid=6398",
+          "description": "Protect the bore or shaft at pivot points and moving assemblies.",
+          "productIds": [
+            "600115"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/tensionbushing.jpg"
+        },
+        {
+          "id": "hex-keys-allen-wrenches-a351e1",
+          "name": "Hex Keys / Allen Wrenches",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/hex-keys-allen-wrenches",
+          "description": "Tools for installing compatible internal-hex fasteners.",
+          "productIds": [
+            "100225"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/shortkey.jpg"
+        },
+        {
+          "id": "hanger-bolt-drivers-c00ca5",
+          "name": "Hanger Bolt Drivers",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/hanger-bolt-drivers?pid=6190",
+          "description": "Threaded drivers install hanger bolts using a reversible drill.",
+          "productIds": [
+            "413389"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/hangerboltdriver.jpg"
+        },
+        {
+          "id": "glues-9ced9d",
+          "name": "Glues",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/glues?pid=6223",
+          "description": "General-purpose and low-viscosity bonding products for compatible materials.",
+          "productIds": [
+            "181774"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/9d10cb0fb975.jpg"
+        },
+        {
+          "id": "drop-in-anchor-setting-tools-68caca",
+          "name": "Drop In Anchor Setting Tools",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/drop-in-anchor-setting-tools?pid=6189",
+          "description": "Set a compatible drop-in anchor by driving its internal expansion mechanism.",
+          "productIds": [
+            "284929"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/dropinanchors.jpg"
+        },
+        {
+          "id": "hydraulic-sealant-cadf73",
+          "name": "Hydraulic Sealant",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/hydraulic-sealant?pid=6225",
+          "description": "Sealant formulated for compatible high-pressure hydraulic connections.",
+          "productIds": [
+            "173852"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/901fb61f7a35.jpg"
+        },
+        {
+          "id": "pipe-sealants-6c502d",
+          "name": "Pipe Sealants",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/pipe-sealants?pid=6226",
+          "description": "Thread sealants for compatible threaded pipe connections.",
+          "productIds": [
+            "173872"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/a3b49e10d79b.jpg"
+        },
+        {
+          "id": "thread-locking-sealants-51de05",
+          "name": "Thread Locking / Sealing",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/thread-locking-sealants?pid=6222",
+          "description": "Compounds applied to threaded fasteners to help lock and seal the joint.",
+          "productIds": [
+            "173603"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/de4ae24ef6b5.jpg"
+        },
+        {
+          "id": "retaining-compounds-1585a5",
+          "name": "Retaining Compounds",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/retaining-compounds?pid=6227",
+          "description": "Bonding compounds for compatible press-fit and slip-fit cylindrical assemblies.",
+          "productIds": [
+            "173793"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/df4e1b3db153.jpg"
+        },
+        {
+          "id": "retaining-ring-tools-kits-1c7382",
+          "name": "Retaining Ring Tools & Kits",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/retaining-ring-tools-kits?pid=6195",
+          "description": "Pliers and tip kits for installing or removing compatible retaining rings.",
+          "productIds": [
+            "248693"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/e6d9a8c3ca86.jpg"
+        }
+      ],
+      "productIds": [
+        "100225",
+        "173603",
+        "173793",
+        "173852",
+        "173872",
+        "181774",
+        "183932",
+        "248693",
+        "284929",
+        "413389",
+        "600115"
+      ],
+      "skuCount": 11,
+      "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/shortkey.jpg"
+    }
+  ],
+  "collections": [
+    {
+      "id": "screws-by-popular-drive-styles",
+      "name": "Screws By Popular Drive Styles",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/screws-drive-style",
+      "description": "Browse matching fasteners by popular drive styles.",
+      "types": [
+        {
+          "id": "phillips-drive-screws-9a7e01",
+          "name": "Phillips Drive Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/phillips-drive-screws",
+          "description": "Find screws with a matching phillips drive and check the remaining dimensions.",
+          "productIds": [
+            "101426",
+            "107738",
+            "108874",
+            "108919",
+            "119603",
+            "131711",
+            "136237",
+            "138972",
+            "148528",
+            "154082",
+            "223214",
+            "232993",
+            "233251",
+            "249236",
+            "252555",
+            "259716",
+            "282981",
+            "283298",
+            "283427",
+            "283616",
+            "283700",
+            "283807",
+            "285113",
+            "310587",
+            "402435",
+            "409942",
+            "410010",
+            "414204",
+            "416168",
+            "431799",
+            "435330",
+            "467487",
+            "467514",
+            "477212",
+            "493411",
+            "505200",
+            "508458",
+            "514825",
+            "523416",
+            "529947",
+            "531912",
+            "532013",
+            "537465",
+            "561205",
+            "610399",
+            "620327",
+            "620393",
+            "620492",
+            "621495",
+            "621516",
+            "621555",
+            "621666",
+            "928124"
+          ],
+          "skuCount": 53,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/b80e08090bc5.jpg"
+        },
+        {
+          "id": "square-drive-screws-8e1df6",
+          "name": "Square Drive Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/square-drive-screws",
+          "description": "Find screws with a matching square drive and check the remaining dimensions.",
+          "productIds": [
+            "113403",
+            "394813",
+            "394828",
+            "418252",
+            "418361",
+            "441229",
+            "455668",
+            "494217",
+            "557134",
+            "559968",
+            "561979",
+            "580366",
+            "592195",
+            "623863",
+            "630121"
+          ],
+          "skuCount": 15,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/dadb5ce3fa88.jpg"
+        },
+        {
+          "id": "torx-drive-screws-0b2296",
+          "name": "Torx® / Star Drive Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/torx-drive-screws",
+          "description": "Find screws with a matching torx® / star drive and check the remaining dimensions.",
+          "productIds": [
+            "582559",
+            "582655",
+            "582840",
+            "587628",
+            "587657",
+            "587738"
+          ],
+          "skuCount": 6,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/d3f3cc697d50.jpg"
+        }
+      ],
+      "productIds": [
+        "101426",
+        "107738",
+        "108874",
+        "108919",
+        "113403",
+        "119603",
+        "131711",
+        "136237",
+        "138972",
+        "148528",
+        "154082",
+        "223214",
+        "232993",
+        "233251",
+        "249236",
+        "252555",
+        "259716",
+        "282981",
+        "283298",
+        "283427",
+        "283616",
+        "283700",
+        "283807",
+        "285113",
+        "310587",
+        "394813",
+        "394828",
+        "402435",
+        "409942",
+        "410010",
+        "414204",
+        "416168",
+        "418252",
+        "418361",
+        "431799",
+        "435330",
+        "441229",
+        "455668",
+        "467487",
+        "467514",
+        "477212",
+        "493411",
+        "494217",
+        "505200",
+        "508458",
+        "514825",
+        "523416",
+        "529947",
+        "531912",
+        "532013",
+        "537465",
+        "557134",
+        "559968",
+        "561205",
+        "561979",
+        "580366",
+        "582559",
+        "582655",
+        "582840",
+        "587628",
+        "587657",
+        "587738",
+        "592195",
+        "610399",
+        "620327",
+        "620393",
+        "620492",
+        "621495",
+        "621516",
+        "621555",
+        "621666",
+        "623863",
+        "630121",
+        "928124"
+      ],
+      "skuCount": 74,
+      "image": "/discount-screws/catalog-images/b80e08090bc5.jpg"
+    },
+    {
+      "id": "screws-by-popular-head-styles",
+      "name": "Screws By Popular Head Styles",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/screws-head-style",
+      "description": "Browse matching fasteners by popular head styles.",
+      "types": [
+        {
+          "id": "hex-washer-head-screws-ddaba1",
+          "name": "Hex Washer Head Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/hex-washer-head-screws",
+          "description": "Compare hex washer head profiles with the thread and drive your application requires.",
+          "productIds": [
+            "113456",
+            "136615",
+            "139081",
+            "149503",
+            "252555",
+            "261195",
+            "282996",
+            "283308",
+            "283430",
+            "285089",
+            "293628",
+            "320997",
+            "322740",
+            "402606",
+            "402919",
+            "556109",
+            "556120",
+            "556209",
+            "948002",
+            "948126"
+          ],
+          "skuCount": 20,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/cee83801190b.jpg"
+        },
+        {
+          "id": "pan-head-screws-ed7e57",
+          "name": "Pan Head Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/pan-head-screws",
+          "description": "Compare pan head profiles with the thread and drive your application requires.",
+          "productIds": [
+            "101426",
+            "107006",
+            "107738",
+            "108874",
+            "108919",
+            "148528",
+            "154082",
+            "223214",
+            "232993",
+            "243728",
+            "259716",
+            "268615",
+            "310587",
+            "394828",
+            "414204",
+            "416168",
+            "467487",
+            "467514",
+            "494217",
+            "505200",
+            "508458",
+            "523416",
+            "529947",
+            "592195",
+            "616081",
+            "616111",
+            "621495",
+            "621516",
+            "621555",
+            "621666",
+            "623863",
+            "640445",
+            "642640"
+          ],
+          "skuCount": 33,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/b80e08090bc5.jpg"
+        },
+        {
+          "id": "truss-head-screws-e254e2",
+          "name": "Truss Head Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/category/truss-head-screws",
+          "description": "Compare truss head profiles with the thread and drive your application requires.",
+          "productIds": [
+            "136237",
+            "240422",
+            "249236",
+            "410010",
+            "435330",
+            "443219",
+            "561205",
+            "630121"
+          ],
+          "skuCount": 8,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/42cf381bebff.jpg"
+        }
+      ],
+      "productIds": [
+        "101426",
+        "107006",
+        "107738",
+        "108874",
+        "108919",
+        "113456",
+        "136237",
+        "136615",
+        "139081",
+        "148528",
+        "149503",
+        "154082",
+        "223214",
+        "232993",
+        "240422",
+        "243728",
+        "249236",
+        "252555",
+        "259716",
+        "261195",
+        "268615",
+        "282996",
+        "283308",
+        "283430",
+        "285089",
+        "293628",
+        "310587",
+        "320997",
+        "322740",
+        "394828",
+        "402606",
+        "402919",
+        "410010",
+        "414204",
+        "416168",
+        "435330",
+        "443219",
+        "467487",
+        "467514",
+        "494217",
+        "505200",
+        "508458",
+        "523416",
+        "529947",
+        "556109",
+        "556120",
+        "556209",
+        "561205",
+        "592195",
+        "616081",
+        "616111",
+        "621495",
+        "621516",
+        "621555",
+        "621666",
+        "623863",
+        "630121",
+        "640445",
+        "642640",
+        "948002",
+        "948126"
+      ],
+      "skuCount": 61,
+      "image": "/discount-screws/catalog-images/b80e08090bc5.jpg"
+    },
+    {
+      "id": "machine-screws-by-size-diameter",
+      "name": "Machine Screws By Size (Diameter)",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/machine-screws-by-size",
+      "description": "Browse matching fasteners by size (diameter).",
+      "types": [
+        {
+          "id": "machine-screws-0-80-91e13d",
+          "name": "0-80 Machine Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/machine-screws-0-80?pid=6315",
+          "description": "Compare 0-80 machine screws with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "247429"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/44a44343a568.jpg"
+        },
+        {
+          "id": "machine-screws-2-56-5eeafd",
+          "name": "2-56 Machine Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/machine-screws-2-56?pid=6316",
+          "description": "Compare 2-56 machine screws with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "101426"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/b80e08090bc5.jpg"
+        },
+        {
+          "id": "machine-screws-3-48-17d205",
+          "name": "3-48 Machine Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/machine-screws-3-48?pid=6317",
+          "description": "Compare 3-48 machine screws with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "469392"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/44a44343a568.jpg"
+        },
+        {
+          "id": "machine-screws-4-40-fa3baf",
+          "name": "4-40 Machine Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/machine-screws-4-40?pid=6318",
+          "description": "Compare 4-40 machine screws with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "107006"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/1d1648ebdae4.jpg"
+        },
+        {
+          "id": "machine-screws-5-40-11189f",
+          "name": "5-40 Machine Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/machine-screws-5-40?pid=6319",
+          "description": "Compare 5-40 machine screws with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "108874",
+            "108919",
+            "268615",
+            "310587"
+          ],
+          "skuCount": 4,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/b80e08090bc5.jpg"
+        },
+        {
+          "id": "machine-screws-6-32-f6f034",
+          "name": "6-32 Machine Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/machine-screws-6-32?pid=6320",
+          "description": "Compare 6-32 machine screws with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "261195",
+            "416168"
+          ],
+          "skuCount": 2,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/748998ade1f7.jpg"
+        },
+        {
+          "id": "machine-screws-8-32-1796a0",
+          "name": "8-32 Machine Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/machine-screws-8-32?pid=6321",
+          "description": "Compare 8-32 machine screws with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "123279",
+            "240422",
+            "293628",
+            "414204"
+          ],
+          "skuCount": 4,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/6304501087a5.jpg"
+        },
+        {
+          "id": "machine-screws-10-24-489e6f",
+          "name": "10-24 Machine Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/machine-screws-10-24?pid=6322",
+          "description": "Compare 10-24 machine screws with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "467487"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/b80e08090bc5.jpg"
+        },
+        {
+          "id": "machine-screws-10-32-60e15a",
+          "name": "10-32 Machine Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/machine-screws-10-32?pid=6310",
+          "description": "Compare 10-32 machine screws with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "146409",
+            "148528",
+            "252555",
+            "467514"
+          ],
+          "skuCount": 4,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/bf29f2d8a561.jpg"
+        },
+        {
+          "id": "machine-screws-12-24-5ffa46",
+          "name": "12-24 Machine Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/machine-screws-12-24?pid=6323",
+          "description": "Compare 12-24 machine screws with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "242279"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/7bc3613f7be5.jpg"
+        },
+        {
+          "id": "machine-screws-quarter-20-6e3602",
+          "name": "1/4-20 Machine Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/machine-screws-quarter-20?pid=6324",
+          "description": "Compare 1/4-20 machine screws with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "243728"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/1d1648ebdae4.jpg"
+        },
+        {
+          "id": "machine-screws-quarter-28-f58df7",
+          "name": "1/4-28 Machine Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/machine-screws-quarter-28?pid=6325",
+          "description": "Compare 1/4-28 machine screws with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "443219"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/cfda35f71278.jpg"
+        },
+        {
+          "id": "machine-screws-five-sixteenths-18-6f7666",
+          "name": "5/16-18 Machine Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/machine-screws-five-sixteenths-18?pid=6326",
+          "description": "Compare 5/16-18 machine screws with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "177821"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/a73392b61ea9.jpg"
+        },
+        {
+          "id": "machine-screws-three-eighths-16-630c62",
+          "name": "3/8-16 Machine Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/machine-screws-three-eighths-16?pid=6327",
+          "description": "Compare 3/8-16 machine screws with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "188841"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/a73392b61ea9.jpg"
+        },
+        {
+          "id": "machine-screws-one-half-13-ccd51b",
+          "name": "1/2-13 Machine Screws",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/machine-screws-one-half-13?pid=6328",
+          "description": "Compare 1/2-13 machine screws with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "246235"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/a73392b61ea9.jpg"
+        }
+      ],
+      "productIds": [
+        "101426",
+        "107006",
+        "108874",
+        "108919",
+        "123279",
+        "146409",
+        "148528",
+        "177821",
+        "188841",
+        "240422",
+        "242279",
+        "243728",
+        "246235",
+        "247429",
+        "252555",
+        "261195",
+        "268615",
+        "293628",
+        "310587",
+        "414204",
+        "416168",
+        "443219",
+        "467487",
+        "467514",
+        "469392"
+      ],
+      "skuCount": 25,
+      "image": "/discount-screws/catalog-images/b80e08090bc5.jpg"
+    },
+    {
+      "id": "carriage-bolts-by-size-diameter",
+      "name": "Carriage Bolts By Size (Diameter)",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/carriage-bolts-by-size-diameter",
+      "description": "Browse matching fasteners by size (diameter).",
+      "types": [
+        {
+          "id": "carriage-bolts-6-32-897abf",
+          "name": "6-32 Carriage Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/carriage-bolts-6-32?pid=6373",
+          "description": "Compare 6-32 carriage bolts with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "498205"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/897f13673589.jpg"
+        },
+        {
+          "id": "carriage-bolts-8-32-ea9dce",
+          "name": "8-32 Carriage Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/carriage-bolts-8-32?pid=6374",
+          "description": "Compare 8-32 carriage bolts with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "498285"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/754e95112196.jpg"
+        },
+        {
+          "id": "carriage-bolts-10-24-ea4642",
+          "name": "10-24 Carriage Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/carriage-bolts-10-24?pid=6375",
+          "description": "Compare 10-24 carriage bolts with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "142919"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/897f13673589.jpg"
+        },
+        {
+          "id": "carriage-bolts-10-32-c8d251",
+          "name": "10-32 Carriage Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/carriage-bolts-10-32?pid=6376",
+          "description": "Compare 10-32 carriage bolts with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "567373"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/carrboltsstainlesssteel-short.jpg"
+        },
+        {
+          "id": "carriage-bolts-quarter-20-a2f349",
+          "name": "1/4-20 Carriage Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/carriage-bolts-quarter-20?pid=6377",
+          "description": "Compare 1/4-20 carriage bolts with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "162841",
+            "318192"
+          ],
+          "skuCount": 2,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/897f13673589.jpg"
+        },
+        {
+          "id": "carriage-bolts-five-sixteenths-18-3dce8a",
+          "name": "5/16-18 Carriage Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/carriage-bolts-five-sixteenths-18?pid=6378",
+          "description": "Compare 5/16-18 carriage bolts with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "181646",
+            "596811"
+          ],
+          "skuCount": 2,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/754e95112196.jpg"
+        },
+        {
+          "id": "carriage-bolts-three-eighths-16-a69a50",
+          "name": "3/8-16 Carriage Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/carriage-bolts-three-eighths-16?pid=6379",
+          "description": "Compare 3/8-16 carriage bolts with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "185657"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/832e5cab7366.jpg"
+        },
+        {
+          "id": "carriage-bolts-seven-sixteenths-14-a192ba",
+          "name": "7/16-14 Carriage Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/carriage-bolts-seven-sixteenths-14?pid=6380",
+          "description": "Compare 7/16-14 carriage bolts with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "476920"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/c2b284551fbe.jpg"
+        },
+        {
+          "id": "carriage-bolts-one-half-13-988fed",
+          "name": "1/2-13 Carriage Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/carriage-bolts-one-half-13?pid=6381",
+          "description": "Compare 1/2-13 carriage bolts with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "630771"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/4f1e3c40e78d.jpg"
+        },
+        {
+          "id": "carriage-bolts-five-eighths-11-1112e0",
+          "name": "5/8-11 Carriage Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/carriage-bolts-five-eighths-11?pid=6382",
+          "description": "Compare 5/8-11 carriage bolts with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "477732"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/bf2a16a9ac4c.jpg"
+        },
+        {
+          "id": "carriage-bolts-three-quarter-10-fd26eb",
+          "name": "3/4-10 Carriage Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/carriage-bolts-three-quarter-10?pid=6383",
+          "description": "Compare 3/4-10 carriage bolts with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "574466"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/883c5bfea3dd.jpg"
+        },
+        {
+          "id": "carriage-bolts-seven-eighths-9-3f2090",
+          "name": "7/8-9 Carriage Bolts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/carriage-bolts-seven-eighths-9?pid=6384",
+          "description": "Compare 7/8-9 carriage bolts with the length, head, drive, and material required by your assembly.",
+          "productIds": [
+            "453297"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "/discount-screws/catalog-images/832e5cab7366.jpg"
+        }
+      ],
+      "productIds": [
+        "142919",
+        "162841",
+        "181646",
+        "185657",
+        "318192",
+        "453297",
+        "476920",
+        "477732",
+        "498205",
+        "498285",
+        "567373",
+        "574466",
+        "596811",
+        "630771"
+      ],
+      "skuCount": 14,
+      "image": "/discount-screws/catalog-images/897f13673589.jpg"
+    },
+    {
+      "id": "lock-nuts-locknuts",
+      "name": "Lock Nuts / Locknuts",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/lock-nuts",
+      "description": "Browse matching fasteners by lock nuts / locknuts.",
+      "types": [
+        {
+          "id": "lock-nuts-conduit-b37cf4",
+          "name": "Conduit Locknuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/lock-nuts-conduit?pid=6260",
+          "description": "Low-profile, lobed nuts for securing electrical conduit fittings.",
+          "productIds": [
+            "249469"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/conduitlocknuts.jpg"
+        },
+        {
+          "id": "lock-nuts-double-serrated-204197",
+          "name": "Double Serrated Locknuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/lock-nuts-double-serrated?pid=6444",
+          "description": "Serrated flange faces provide a bearing surface and locking action.",
+          "productIds": [
+            "635902"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/doubleserratedhexlocknut.jpg"
+        },
+        {
+          "id": "lock-nuts-flex-ae811d",
+          "name": "Flex Locknuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/lock-nuts-flex?pid=6261",
+          "description": "A segmented collar creates prevailing torque as the nut tightens.",
+          "productIds": [
+            "457621"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/flexlocknuts.png"
+        },
+        {
+          "id": "lock-nuts-hex-flange-5d4126",
+          "name": "Hex Flange Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/lock-nuts-hex-flange?pid=6262",
+          "description": "An integrated flange spreads bearing force; serrated versions add locking action.",
+          "productIds": [
+            "429023"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/metricflangenutszincyellow.jpg"
+        },
+        {
+          "id": "lock-nuts-keps-5e816e",
+          "name": "Keps Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/lock-nuts-keps?pid=6263",
+          "description": "A captive, free-spinning washer combines the nut and washer in one assembly.",
+          "productIds": [
+            "132112"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/keps.jpg"
+        },
+        {
+          "id": "lock-nuts-nylon-insert-9ce8df",
+          "name": "Nylon Insert Lock Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/lock-nuts-nylon-insert?pid=6264",
+          "description": "A nylon collar adds friction against mating threads to resist loosening.",
+          "productIds": [
+            "120021"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/thinstylenyloninsertlocknuts.jpg"
+        },
+        {
+          "id": "lock-nuts-stover-c198d6",
+          "name": "Stover Lock Nuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/lock-nuts-stover?pid=6265",
+          "description": "An all-metal nut with distorted upper threads that create prevailing torque.",
+          "productIds": [
+            "208750"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/flanged-stover-locknut-grade-G.jpg"
+        },
+        {
+          "id": "lock-nuts-two-way-reversible-6cec0f",
+          "name": "Two Way Reversible Locknuts",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/lock-nuts-two-way-reversible?pid=6266",
+          "description": "Indentations in the nut provide a locking effect from either installation direction.",
+          "productIds": [
+            "132226"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/twowayln.jpg"
+        }
+      ],
+      "productIds": [
+        "120021",
+        "132112",
+        "132226",
+        "208750",
+        "249469",
+        "429023",
+        "457621",
+        "635902"
+      ],
+      "skuCount": 8,
+      "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/thinstylenyloninsertlocknuts.jpg"
+    },
+    {
+      "id": "lock-washers-lockwashers",
+      "name": "Lock Washers / Lockwashers",
+      "sourceUrl": "https://www.fastenersuperstore.com/category/lock-washers",
+      "description": "Browse matching fasteners by lock washers / lockwashers.",
+      "types": [
+        {
+          "id": "lock-washers-external-tooth-df5e6d",
+          "name": "External Tooth Lock Washers",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/lock-washers-external-tooth?pid=6255",
+          "description": "Outward-facing teeth engage the bearing surfaces around the fastener.",
+          "productIds": [
+            "259480"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/externaltoothlockwashers.jpg"
+        },
+        {
+          "id": "lock-washers-internal-tooth-ced8b4",
+          "name": "Internal Tooth Lock Washers",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/lock-washers-internal-tooth?pid=6256",
+          "description": "Inward-facing teeth engage near the fastener shank.",
+          "productIds": [
+            "221915"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/intwashers.jpg"
+        },
+        {
+          "id": "lock-washer-internal-external-combo-tooth-9d86b7",
+          "name": "Internal / External Combo Tooth Lock Washers",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/lock-washer-internal-external-combo-tooth?pid=6257",
+          "description": "Teeth on both edges engage the surrounding bearing surfaces.",
+          "productIds": [
+            "120137"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/internalexternallockwashers.jpg"
+        },
+        {
+          "id": "lock-washers-split-178b32",
+          "name": "Split Lock Washers",
+          "sourceUrl": "https://www.fastenersuperstore.com/products/lock-washers-split?pid=6258",
+          "description": "Split-ring washer styles for compatible bolted assemblies.",
+          "productIds": [
+            "316956"
+          ],
+          "skuCount": 1,
+          "importStatus": "available",
+          "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/splitlw.jpg"
+        }
+      ],
+      "productIds": [
+        "120137",
+        "221915",
+        "259480",
+        "316956"
+      ],
+      "skuCount": 4,
+      "image": "https://s3-us-west-2.amazonaws.com/fastenersuperstore.com.files/images/products/internalexternallockwashers.jpg"
+    }
+  ],
+  "complete": false,
+  "taxonomyComplete": true,
+  "notes": "All category and type links from the source directory are represented. Product data is a verified subset, not the full source inventory. Prices and availability are source snapshots subject to confirmation.",
+  "coverage": {
+    "groups": 15,
+    "referenceTypeEntries": 191,
+    "distinctReferenceTypes": 171,
+    "typesWithProducts": 171,
+    "supplementaryCollections": 6,
+    "allDistinctBrowseTypes": 216,
+    "allTypesWithProducts": 216,
+    "importedSkuCount": 353,
+    "fullInventory": false
+  }
+}

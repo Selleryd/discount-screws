@@ -1,0 +1,67 @@
+@property --catalog-search-angle {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: true;
+}
+
+/* A slow spectrum orbit draws attention without changing the field's layout. */
+.catalog-search-row .catalog-search {
+  --search-spectrum: conic-gradient(from var(--catalog-search-angle), #ff557c, #ac63ff, #458dff, #28cdbb, #b9dc67, #ffbb65, #ff557c);
+  position: relative;
+  isolation: isolate;
+  min-width: 0;
+  border-color: transparent;
+  border-radius: 8px;
+  background: transparent;
+  animation: catalog-search-orbit 9s linear infinite;
+}
+
+.catalog-search-row .catalog-search::before,
+.catalog-search-row .catalog-search::after {
+  content: "";
+  position: absolute;
+  pointer-events: none;
+  border-radius: inherit;
+}
+
+/* The solid inner surface keeps text and controls crisp above the soft halo. */
+.catalog-search-row .catalog-search::before {
+  z-index: -2;
+  inset: -2px;
+  background: var(--search-spectrum);
+  filter: blur(7px);
+  opacity: .32;
+  transition: opacity .25s ease;
+}
+
+.catalog-search-row .catalog-search::after {
+  z-index: -1;
+  inset: -1px;
+  border: 1.5px solid transparent;
+  background: linear-gradient(#f7f8f4, #f7f8f4) padding-box,
+    var(--search-spectrum) border-box;
+}
+
+.catalog-search-row .catalog-search:focus-within::before {
+  opacity: .55;
+}
+
+.catalog-search-row .catalog-search:focus-within::after {
+  border-width: 2px;
+}
+
+@keyframes catalog-search-orbit {
+  to { --catalog-search-angle: 360deg; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .catalog-search-row .catalog-search { animation: none; }
+  .catalog-search-row .catalog-search::before { transition: none; }
+}
+
+@media (forced-colors: active) {
+  .catalog-search-row .catalog-search { border-color: CanvasText; animation: none; }
+  .catalog-search-row .catalog-search:focus-within { outline: 2px solid Highlight; outline-offset: 3px; }
+  .catalog-search-row .catalog-search::before,
+  .catalog-search-row .catalog-search::after { display: none; }
+}
